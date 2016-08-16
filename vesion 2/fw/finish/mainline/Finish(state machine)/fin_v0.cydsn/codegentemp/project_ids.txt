@@ -1,0 +1,6 @@
+D:\Cypress\system-start-finish\vesion 2\fw\finish\sandbox\v3\Finish(state machine)\fin_v0.cydsn\fin_v0.cyprj|3c79cd40-b700-4a69-81dd-70dca35a57aa
+D:\Cypress\system-start-finish\vesion 2\fw\finish\sandbox\v3\Finish(state machine)\fin_v0.cydsn\SW SPI.cylib\SW SPI.cyprj|f63e25b7-8cae-4abc-8cf0-4aa293719832
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|717f8cab-10eb-4024-b4ee-bf8aa0daaf1c
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|13f13687-f998-47a3-8f69-d68b69ab844f
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|02c9f0d9-f909-4359-9714-38f383d05f61
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|7cbcd525-3850-41c4-9898-4af829e14909
