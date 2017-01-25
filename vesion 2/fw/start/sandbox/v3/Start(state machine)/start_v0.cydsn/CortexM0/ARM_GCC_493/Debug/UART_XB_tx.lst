@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccft3MUg.s 			page 1
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 1
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc7mp8Ij.s 			page 1
+>>>>>>> kz/master
 
 
    1              		.cpu cortex-m0
@@ -63,10 +67,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 1
   31:.\Generated_Source\PSoC4/UART_XB_tx.c ****         do { \
   32:.\Generated_Source\PSoC4/UART_XB_tx.c ****             UART_XB_tx_USBIO_CTRL_REG = (UART_XB_tx_USBIO_CTRL_REG & \
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccft3MUg.s 			page 2
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 2
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc7mp8Ij.s 			page 2
+>>>>>>> kz/master
 
 
   33:.\Generated_Source\PSoC4/UART_XB_tx.c ****                                     (uint32)(~(uint32)(UART_XB_tx_DRIVE_MODE_IND_MASK << \
@@ -127,10 +135,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 1
   39              		.loc 1 74 0
   40 000c 064B     		ldr	r3, .L2
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccft3MUg.s 			page 3
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 3
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc7mp8Ij.s 			page 3
+>>>>>>> kz/master
 
 
   41 000e 064A     		ldr	r2, .L2
@@ -191,10 +203,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 1
  100:.\Generated_Source\PSoC4/UART_XB_tx.c **** * \sideeffect
  101:.\Generated_Source\PSoC4/UART_XB_tx.c **** *  If you use read-modify-write operations that are not atomic; the Interrupt 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccft3MUg.s 			page 4
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 4
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc7mp8Ij.s 			page 4
+>>>>>>> kz/master
 
 
  102:.\Generated_Source\PSoC4/UART_XB_tx.c **** *  Service Routines (ISR) can cause corruption of this function. An ISR that 
@@ -255,10 +271,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 1
  112 003e 1278     		ldrb	r2, [r2]
  113 0040 1A60     		str	r2, [r3]
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccft3MUg.s 			page 5
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 5
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc7mp8Ij.s 			page 5
+>>>>>>> kz/master
 
 
  116:.\Generated_Source\PSoC4/UART_XB_tx.c **** }
@@ -319,10 +339,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 1
  146 000a 1340     		and	r3, r2
  147 000c 5B08     		lsr	r3, r3, #1
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccft3MUg.s 			page 6
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 6
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc7mp8Ij.s 			page 6
+>>>>>>> kz/master
 
 
  148 000e DBB2     		uxtb	r3, r3
@@ -383,10 +407,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 1
  176              		.cfi_def_cfa_register 7
  166:.\Generated_Source\PSoC4/UART_XB_tx.c ****     return (uint8)((UART_XB_tx_DR & UART_XB_tx_MASK) >> UART_XB_tx_SHIFT);
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccft3MUg.s 			page 7
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 7
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc7mp8Ij.s 			page 7
+>>>>>>> kz/master
 
 
  177              		.loc 1 166 0
@@ -447,10 +475,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 1
  195:.\Generated_Source\PSoC4/UART_XB_tx.c **** * \return 
  196:.\Generated_Source\PSoC4/UART_XB_tx.c **** *  None
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccft3MUg.s 			page 8
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 8
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc7mp8Ij.s 			page 8
+>>>>>>> kz/master
 
 
  197:.\Generated_Source\PSoC4/UART_XB_tx.c **** *  
@@ -511,10 +543,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 1
  242 0038 04B0     		add	sp, sp, #16
  243              		@ sp needed
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccft3MUg.s 			page 9
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 9
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc7mp8Ij.s 			page 9
+>>>>>>> kz/master
 
 
  244 003a 80BD     		pop	{r7, pc}
@@ -575,10 +611,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 1
  274 000c FB1D     		add	r3, r7, #7
  275 000e 0221     		mov	r1, #2
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccft3MUg.s 			page 10
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 10
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc7mp8Ij.s 			page 10
+>>>>>>> kz/master
 
 
  276 0010 0A40     		and	r2, r1
@@ -642,8 +682,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 1
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccft3MUg.s 			page 11
 =======
  329 0036 3D020000 		.4byte	.LASF2
+<<<<<<< HEAD
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 11
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc7mp8Ij.s 			page 11
+>>>>>>> kz/master
 
 
  330 003a 02       		.uleb128 0x2
@@ -704,10 +748,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 1
  385 00a4 04       		.uleb128 0x4
  386 00a5 00000000 		.4byte	.LASF15
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccft3MUg.s 			page 12
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 12
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc7mp8Ij.s 			page 12
+>>>>>>> kz/master
 
 
  387 00a9 02       		.byte	0x2
@@ -768,10 +816,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 1
  442 011a 1C000000 		.4byte	.LFE2-.LFB2
  443 011e 01       		.uleb128 0x1
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccft3MUg.s 			page 13
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 13
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc7mp8Ij.s 			page 13
+>>>>>>> kz/master
 
 
  444 011f 9C       		.byte	0x9c
@@ -832,10 +884,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 1
  499 018f 01       		.byte	0x1
  500 0190 EE       		.byte	0xee
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccft3MUg.s 			page 14
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 14
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc7mp8Ij.s 			page 14
+>>>>>>> kz/master
 
 
  501 0191 6B000000 		.4byte	0x6b
@@ -896,10 +952,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 1
  556 002f 0B       		.uleb128 0xb
  557 0030 3B       		.uleb128 0x3b
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccft3MUg.s 			page 15
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 15
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc7mp8Ij.s 			page 15
+>>>>>>> kz/master
 
 
  558 0031 05       		.uleb128 0x5
@@ -960,10 +1020,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 1
  613 0069 03       		.uleb128 0x3
  614 006a 0E       		.uleb128 0xe
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccft3MUg.s 			page 16
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 16
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc7mp8Ij.s 			page 16
+>>>>>>> kz/master
 
 
  615 006b 3A       		.uleb128 0x3a
@@ -1024,10 +1088,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 1
  670 00a3 18       		.uleb128 0x18
  671 00a4 9742     		.uleb128 0x2117
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccft3MUg.s 			page 17
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 17
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc7mp8Ij.s 			page 17
+>>>>>>> kz/master
 
 
  672 00a6 19       		.uleb128 0x19
@@ -1092,8 +1160,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 1
 =======
  721              	.LASF8:
  722 000c 756E7369 		.ascii	"unsigned int\000"
+<<<<<<< HEAD
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 18
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc7mp8Ij.s 			page 18
+>>>>>>> kz/master
 
 
  722      5F58425F 
@@ -1233,7 +1305,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 1
  744      4320342E 
  744      392E3320 
  744      32303135 
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 19
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc7mp8Ij.s 			page 19
 
 
  744      30333033 
@@ -1293,8 +1365,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 1
  766      7465645F 
  766      536F7572 
  766      63655C50 
+<<<<<<< HEAD
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAhcf2Q.s 			page 20
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc7mp8Ij.s 			page 20
+>>>>>>> kz/master
 
 
  768      00

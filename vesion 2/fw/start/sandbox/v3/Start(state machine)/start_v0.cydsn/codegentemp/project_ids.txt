@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 c:\Cypress\Mainline_v2\Start\start_v0.cydsn\start_v0.cyprj|e00ed69d-e4ca-46f1-9325-ab630659b58f
 c:\Cypress\Mainline_v2\Start\start_v0.cydsn\SW SPI.cylib\SW SPI.cyprj|01defc6e-c435-4e1d-9edf-0ca7e13f4d16
 C:\Program Files\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|660a5cb6-3939-4c3f-8e14-af15f15f0529
@@ -13,3 +14,11 @@ C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomp
 C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|f296d699-4f86-4a0e-a7a6-0a51ab47ee61
 C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|f52b1150-632b-421b-bcc3-b1e2c8d9537f
 >>>>>>> kodizhuk/master
+=======
+D:\Cypress\system-start-finish\vesion 2\fw\start\sandbox\v3\Start(state machine)\start_v0.cydsn\start_v0.cyprj|a97b0e61-efaa-43cc-b1b2-38778ee52af2
+D:\Cypress\system-start-finish\vesion 2\fw\start\sandbox\v3\Start(state machine)\start_v0.cydsn\SW SPI.cylib\SW SPI.cyprj|3dae57c1-c46d-4755-8d91-78a17b550161
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|dc8c5175-4b2e-4280-b2e5-1827e189f8af
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|02d3a168-c236-4ca1-b503-8626435cd1b9
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|a60c0aa6-3f9f-4e32-8e7a-9c73f9e5ef40
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|35243d50-6378-4a74-a303-3867bd880ad1
+>>>>>>> kz/master

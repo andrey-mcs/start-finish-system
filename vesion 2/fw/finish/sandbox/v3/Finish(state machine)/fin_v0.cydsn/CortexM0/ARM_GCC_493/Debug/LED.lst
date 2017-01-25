@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxgzJ3g.s 			page 1
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccVfC5rN.s 			page 1
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc88CNop.s 			page 1
+>>>>>>> kz/master
 
 
    1              		.cpu cortex-m0
@@ -63,10 +67,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccVfC5rN.s 			page 1
   30:.\lib_LED/LED.c ****                 FREQ_TIMER_LED : 
   31:.\lib_LED/LED.c ****                     Input Clock Timer_LED Frequency
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxgzJ3g.s 			page 2
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccVfC5rN.s 			page 2
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc88CNop.s 			page 2
+>>>>>>> kz/master
 
 
   32:.\lib_LED/LED.c ****     Result 
@@ -127,10 +135,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccVfC5rN.s 			page 1
   54 0020 80BD     		pop	{r7, pc}
   55              	.L4:
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxgzJ3g.s 			page 3
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccVfC5rN.s 			page 3
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc88CNop.s 			page 3
+>>>>>>> kz/master
 
 
   56 0022 C046     		.align	2
@@ -191,10 +203,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccVfC5rN.s 			page 1
  101              		.thumb_func
  102              		.type	LedBlink, %function
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxgzJ3g.s 			page 4
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccVfC5rN.s 			page 4
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc88CNop.s 			page 4
+>>>>>>> kz/master
 
 
  103              	LedBlink:
@@ -255,10 +271,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccVfC5rN.s 			page 1
  142              		.size	LedBlink, .-LedBlink
  143              		.section	.text.SetLedState,"ax",%progbits
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxgzJ3g.s 			page 5
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccVfC5rN.s 			page 5
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc88CNop.s 			page 5
+>>>>>>> kz/master
 
 
  144              		.align	2
@@ -324,10 +344,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccVfC5rN.s 			page 1
  185              	.Ldebug_info0:
  186 0000 5B010000 		.4byte	0x15b
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxgzJ3g.s 			page 6
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccVfC5rN.s 			page 6
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc88CNop.s 			page 6
+>>>>>>> kz/master
 
 
  187 0004 0400     		.2byte	0x4
@@ -432,7 +456,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccVfC5rN.s 			page 1
  241 0077 02       		.uleb128 0x2
  242 0078 08       		.byte	0x8
  243 0079 07       		.byte	0x7
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccVfC5rN.s 			page 7
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc88CNop.s 			page 7
 
 
  244 007a 4E010000 		.4byte	.LASF10
@@ -535,8 +559,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccVfC5rN.s 			page 1
  298 00e7 26000000 		.4byte	.LASF21
  299 00eb 01       		.byte	0x1
  300 00ec 41       		.byte	0x41
+<<<<<<< HEAD
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccVfC5rN.s 			page 8
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc88CNop.s 			page 8
+>>>>>>> kz/master
 
 
  301 00ed 00000000 		.4byte	.LFB3
@@ -621,10 +649,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccVfC5rN.s 			page 1
  356 015a 00000000 		.4byte	LED_InitValue
  357 015e 00       		.byte	0
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxgzJ3g.s 			page 9
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccVfC5rN.s 			page 9
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc88CNop.s 			page 9
+>>>>>>> kz/master
 
 
  358              		.section	.debug_abbrev,"",%progbits
@@ -685,10 +717,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccVfC5rN.s 			page 1
  413 0035 00       		.byte	0
  414 0036 05       		.uleb128 0x5
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxgzJ3g.s 			page 10
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccVfC5rN.s 			page 10
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc88CNop.s 			page 10
+>>>>>>> kz/master
 
 
  415 0037 16       		.uleb128 0x16
@@ -749,10 +785,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccVfC5rN.s 			page 1
  470 0070 19       		.uleb128 0x19
  471 0071 01       		.uleb128 0x1
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxgzJ3g.s 			page 11
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccVfC5rN.s 			page 11
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc88CNop.s 			page 11
+>>>>>>> kz/master
 
 
  472 0072 13       		.uleb128 0x13
@@ -813,10 +853,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccVfC5rN.s 			page 1
  527 000a 04       		.byte	0x4
  528 000b 00       		.byte	0
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxgzJ3g.s 			page 12
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccVfC5rN.s 			page 12
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc88CNop.s 			page 12
+>>>>>>> kz/master
 
 
  529 000c 0000     		.2byte	0
@@ -951,7 +995,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccVfC5rN.s 			page 1
  569      75656E63 
  569      7900
  570              	.LASF1:
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccVfC5rN.s 			page 13
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc88CNop.s 			page 13
 
 
  571 0041 756E7369 		.ascii	"unsigned char\000"
@@ -1030,7 +1074,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccVfC5rN.s 			page 1
  592              	.LASF15:
  593 013a 75696E74 		.ascii	"uint32\000"
  593      333200
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccVfC5rN.s 			page 14
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc88CNop.s 			page 14
 
 
  594              	.LASF11:
@@ -1145,7 +1189,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccVfC5rN.s 			page 1
  617      20696E74 
  617      00
  618              	.LASF0:
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccVfC5rN.s 			page 15
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc88CNop.s 			page 15
 
 
  619 0216 7369676E 		.ascii	"signed char\000"

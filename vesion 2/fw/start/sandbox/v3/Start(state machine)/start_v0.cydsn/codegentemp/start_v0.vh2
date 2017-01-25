@@ -3,10 +3,14 @@
 --
 --	Cypress Semiconductor - WARP Version 6.3 IR 41
 <<<<<<< HEAD
+<<<<<<< HEAD
 --	Mon Aug 15 10:52:40 2016
 =======
 --	Tue Aug 16 14:23:24 2016
 >>>>>>> kodizhuk/master
+=======
+--	Mon Aug 29 22:55:13 2016
+>>>>>>> kz/master
 --
 
 USE cypress.cypress.all;

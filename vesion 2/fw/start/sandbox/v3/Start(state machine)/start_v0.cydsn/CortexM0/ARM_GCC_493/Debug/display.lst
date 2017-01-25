@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEO4EKp.s 			page 1
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 1
+>>>>>>> kz/master
 
 
    1              		.cpu cortex-m0
@@ -63,10 +67,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
   32:Generated_Source\PSoC4/RTC.h **** /**
   33:Generated_Source\PSoC4/RTC.h **** * \addtogroup group_structures
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEO4EKp.s 			page 2
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 2
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 2
+>>>>>>> kz/master
 
 
   34:Generated_Source\PSoC4/RTC.h **** * @{
@@ -127,10 +135,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
   89:Generated_Source\PSoC4/RTC.h **** #define RTC__H0600 6
   90:Generated_Source\PSoC4/RTC.h **** #define RTC__H0700 7
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEO4EKp.s 			page 3
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 3
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 3
+>>>>>>> kz/master
 
 
   91:Generated_Source\PSoC4/RTC.h **** #define RTC__H0800 8
@@ -191,10 +203,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
  146:Generated_Source\PSoC4/RTC.h **** #define RTC_INITIAL_DAY             (9u)
  147:Generated_Source\PSoC4/RTC.h **** #define RTC_INITIAL_MONTH           (8u)
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEO4EKp.s 			page 4
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 4
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 4
+>>>>>>> kz/master
 
 
  148:Generated_Source\PSoC4/RTC.h **** #define RTC_INITIAL_YEAR            (2016u)
@@ -255,10 +271,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
  203:Generated_Source\PSoC4/RTC.h **** #define RTC_DAYS_IN_MAY         (31u)
  204:Generated_Source\PSoC4/RTC.h **** #define RTC_DAYS_IN_JUNE        (30u)
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEO4EKp.s 			page 5
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 5
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 5
+>>>>>>> kz/master
 
 
  205:Generated_Source\PSoC4/RTC.h **** #define RTC_DAYS_IN_JULY        (31u)
@@ -319,10 +339,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
  260:Generated_Source\PSoC4/RTC.h ****     #define RTC_DAY_OFFSET        (0u)
  261:Generated_Source\PSoC4/RTC.h ****     #define RTC_1000_YEAR_OFFSET  (28u)
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEO4EKp.s 			page 6
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 6
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 6
+>>>>>>> kz/master
 
 
  262:Generated_Source\PSoC4/RTC.h ****     #define RTC_100_YEAR_OFFSET   (24u)
@@ -383,10 +407,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
  317:Generated_Source\PSoC4/RTC.h **** 
  318:Generated_Source\PSoC4/RTC.h **** /* Definition of the RTC status values. */
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEO4EKp.s 			page 7
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 7
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 7
+>>>>>>> kz/master
 
 
  319:Generated_Source\PSoC4/RTC.h **** #define RTC_STATUS_DST             (1uL << RTC_STATUS_DST_OFFSET)
@@ -447,10 +475,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
  374:Generated_Source\PSoC4/RTC.h **** static uint32 RTC_IsBitSet(uint32 var, uint32 mask);
  375:Generated_Source\PSoC4/RTC.h **** static uint32 RTC_GetSecond(uint32 inputTime);
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEO4EKp.s 			page 8
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 8
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 8
+>>>>>>> kz/master
 
 
  376:Generated_Source\PSoC4/RTC.h **** static uint32 RTC_GetMinutes(uint32 inputTime);
@@ -511,10 +543,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
  431:Generated_Source\PSoC4/RTC.h **** * \param
  432:Generated_Source\PSoC4/RTC.h **** *  var The variable to be checked.
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEO4EKp.s 			page 9
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 9
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 9
+>>>>>>> kz/master
 
 
  433:Generated_Source\PSoC4/RTC.h **** * \param
@@ -575,10 +611,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
  488:Generated_Source\PSoC4/RTC.h **** *  Returns the seconds value from the time value that is passed as a/the parameter.
  489:Generated_Source\PSoC4/RTC.h **** *
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEO4EKp.s 			page 10
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 10
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 10
+>>>>>>> kz/master
 
 
  490:Generated_Source\PSoC4/RTC.h **** * \param
@@ -639,10 +679,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
   64              		.section	.text.RTC_GetMinutes,"ax",%progbits
   65              		.align	2
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEO4EKp.s 			page 11
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 11
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 11
+>>>>>>> kz/master
 
 
   66              		.code	16
@@ -703,10 +747,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
   98 0024 1B0A     		lsr	r3, r3, #8
   99 0026 FA68     		ldr	r2, [r7, #12]
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEO4EKp.s 			page 12
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 12
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 12
+>>>>>>> kz/master
 
 
  100 0028 D318     		add	r3, r2, r3
@@ -767,10 +815,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
  131              		.loc 1 552 0
  132 0008 7A68     		ldr	r2, [r7, #4]
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEO4EKp.s 			page 13
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 13
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 13
+>>>>>>> kz/master
 
 
  133 000a C023     		mov	r3, #192
@@ -847,7 +899,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
    5:.\lib_Display/display.c **** #include "lib_RTC\RTC_WDT.h"
    6:.\lib_Display/display.c **** #include "lib_Display\display.h"
    7:.\lib_Display/display.c **** 
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 14
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 14
 
 
    8:.\lib_Display/display.c **** 
@@ -908,7 +960,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
   31:.\lib_Display/display.c **** * Summary:
   32:.\lib_Display/display.c **** *   Writes a zero terminated string to the LCD.
   33:.\lib_Display/display.c **** *
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 15
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 15
 
 
   34:.\lib_Display/display.c **** * Parameters:
@@ -992,7 +1044,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
 =======
   46:.\lib_Display/display.c **** 
   47:.\lib_Display/display.c **** /*******************************************************************************
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 16
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 16
 
 
   48:.\lib_Display/display.c **** * Function name: DisplayPutIndicatorSD
@@ -1053,7 +1105,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
  280 002c 02B0     		add	sp, sp, #8
  281              		@ sp needed
  282 002e 80BD     		pop	{r7, pc}
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 17
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 17
 
 
  283              		.cfi_endproc
@@ -1132,7 +1184,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
  320              	.L15:
   86:.\lib_Display/display.c ****     }
   87:.\lib_Display/display.c ****     else
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 18
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 18
 
 
   88:.\lib_Display/display.c ****     {
@@ -1198,7 +1250,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
  356              		.cfi_def_cfa 7, 24
  103:.\lib_Display/display.c ****     uint32_t time;
  104:.\lib_Display/display.c ****     
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 19
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 19
 
 
  105:.\lib_Display/display.c ****     time = RTC_GetTime();
@@ -1418,7 +1470,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
  406 0024 20202020 		.ascii	"             \000"
  406      20202020 
  406      20202020 
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 20
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 20
 
 
  406      2000
@@ -2462,7 +2514,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
  442 0022 0DD0     		beq	.L20
  443              		.loc 2 127 0 is_stmt 0 discriminator 1
  444 0024 7B68     		ldr	r3, [r7, #4]
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 21
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 21
 
 
  445 0026 0F2B     		cmp	r3, #15
@@ -2522,7 +2574,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
  494 0028 9A020000 		.4byte	.LASF0
  495 002c 02       		.uleb128 0x2
  496 002d 01       		.byte	0x1
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 22
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 22
 
 
  497 002e 08       		.byte	0x8
@@ -2582,7 +2634,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
  551 0095 08       		.byte	0x8
  552 0096 04       		.byte	0x4
  553 0097 00010000 		.4byte	.LASF13
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 23
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 23
 
 
  554 009b 02       		.uleb128 0x2
@@ -2642,7 +2694,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
  608 0105 28010000 		.4byte	0x128
  609 0109 0A       		.uleb128 0xa
  610 010a AE020000 		.4byte	.LASF24
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 24
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 24
 
 
  611 010e 01       		.byte	0x1
@@ -2702,7 +2754,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
  665 0180 01       		.byte	0x1
  666 0181 2402     		.2byte	0x224
  667 0183 81000000 		.4byte	0x81
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 25
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 25
 
 
  668 0187 02       		.uleb128 0x2
@@ -2762,7 +2814,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
  722 01f1 77       		.sleb128 -9
  723 01f2 00       		.byte	0
  724 01f3 0D       		.uleb128 0xd
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 26
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 26
 
 
  725 01f4 1A020000 		.4byte	.LASF31
@@ -2822,7 +2874,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
  779 0260 9B000000 		.4byte	0x9b
  780 0264 6F020000 		.4byte	0x26f
  781 0268 11       		.uleb128 0x11
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 27
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 27
 
 
  782 0269 A2000000 		.4byte	0xa2
@@ -2882,7 +2934,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
  836 0028 13       		.uleb128 0x13
  837 0029 00       		.byte	0
  838 002a 00       		.byte	0
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 28
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 28
 
 
  839 002b 04       		.uleb128 0x4
@@ -2942,7 +2994,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
  893 0061 00       		.byte	0
  894 0062 09       		.uleb128 0x9
  895 0063 2E       		.uleb128 0x2e
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 29
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 29
 
 
  896 0064 01       		.byte	0x1
@@ -3002,7 +3054,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
  950 009b 2E       		.uleb128 0x2e
  951 009c 00       		.byte	0
  952 009d 3F       		.uleb128 0x3f
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 30
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 30
 
 
  953 009e 19       		.uleb128 0x19
@@ -3062,7 +3114,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
  1007 00d6 13       		.uleb128 0x13
  1008 00d7 02       		.uleb128 0x2
  1009 00d8 18       		.uleb128 0x18
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 31
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 31
 
 
  1010 00d9 00       		.byte	0
@@ -3122,7 +3174,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
  1064 0038 00000000 		.4byte	.LFB30
  1065 003c 30000000 		.4byte	.LFE30-.LFB30
  1066 0040 00000000 		.4byte	.LFB31
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 32
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 32
 
 
  1067 0044 30000000 		.4byte	.LFE31-.LFB31
@@ -3182,7 +3234,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
  1107              	.LASF20:
  1108 002f 44495343 		.ascii	"DISCONNECT\000"
  1108      4F4E4E45 
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 33
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 33
 
 
  1108      435400
@@ -3242,7 +3294,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
  1133              	.LASF29:
  1134 0107 44697370 		.ascii	"DisplayIndicatorSD\000"
  1134      6C617949 
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 34
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 34
 
 
  1134      6E646963 
@@ -3302,7 +3354,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
  1155              	.LASF15:
  1156 0211 73697A65 		.ascii	"sizetype\000"
  1156      74797065 
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 35
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 35
 
 
  1156      00
@@ -3362,7 +3414,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 1
  1182 02ae 696E7075 		.ascii	"inputTime\000"
  1182      7454696D 
  1182      6500
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccr69u8f.s 			page 36
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccH2EoGa.s 			page 36
 
 
  1183              	.LASF26:

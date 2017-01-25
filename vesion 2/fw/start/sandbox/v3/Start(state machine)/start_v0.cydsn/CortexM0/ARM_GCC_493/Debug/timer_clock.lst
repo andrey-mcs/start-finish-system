@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccvgiebM.s 			page 1
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 1
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cckmCH9e.s 			page 1
+>>>>>>> kz/master
 
 
    1              		.cpu cortex-m0
@@ -63,10 +67,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 1
   31:.\Generated_Source\PSoC4/timer_clock.c **** * Parameters:
   32:.\Generated_Source\PSoC4/timer_clock.c **** *  alignClkDiv:  The divider to which phase alignment is performed when the
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccvgiebM.s 			page 2
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 2
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cckmCH9e.s 			page 2
+>>>>>>> kz/master
 
 
   33:.\Generated_Source\PSoC4/timer_clock.c **** *    clock is started.
@@ -127,10 +135,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 1
   61              	.L3:
   62 0024 00000140 		.word	1073807360
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccvgiebM.s 			page 3
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 3
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cckmCH9e.s 			page 3
+>>>>>>> kz/master
 
 
   63 0028 41000080 		.word	-2147483583
@@ -191,10 +203,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 1
   95:.\Generated_Source\PSoC4/timer_clock.c **** void timer_clock_Stop(void)
   96:.\Generated_Source\PSoC4/timer_clock.c **** {
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccvgiebM.s 			page 4
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 4
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cckmCH9e.s 			page 4
+>>>>>>> kz/master
 
 
   75              		.loc 1 96 0
@@ -255,10 +271,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 1
  111              		.thumb_func
  112              		.type	timer_clock_SetFractionalDividerRegister, %function
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccvgiebM.s 			page 5
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 5
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cckmCH9e.s 			page 5
+>>>>>>> kz/master
 
 
  113              	timer_clock_SetFractionalDividerRegister:
@@ -319,10 +339,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 1
  137              		.loc 1 146 0
  138 001c BB1D     		add	r3, r7, #6
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccvgiebM.s 			page 6
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 6
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cckmCH9e.s 			page 6
+>>>>>>> kz/master
 
 
  139 001e 1B88     		ldrh	r3, [r3]
@@ -383,10 +407,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 1
  162:.\Generated_Source\PSoC4/timer_clock.c **** * Function Name: timer_clock_GetDividerRegister
  163:.\Generated_Source\PSoC4/timer_clock.c **** ********************************************************************************
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccvgiebM.s 			page 7
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 7
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cckmCH9e.s 			page 7
+>>>>>>> kz/master
 
 
  164:.\Generated_Source\PSoC4/timer_clock.c **** *
@@ -447,10 +475,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 1
  183:.\Generated_Source\PSoC4/timer_clock.c **** /*******************************************************************************
  184:.\Generated_Source\PSoC4/timer_clock.c **** * Function Name: timer_clock_GetFractionalDividerRegister
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccvgiebM.s 			page 8
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 8
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cckmCH9e.s 			page 8
+>>>>>>> kz/master
 
 
  185:.\Generated_Source\PSoC4/timer_clock.c **** ********************************************************************************
@@ -511,10 +543,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 1
  244 0019 00000000 		.4byte	.Ldebug_ranges0+0
  245 001d 00000000 		.4byte	0
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccvgiebM.s 			page 9
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 9
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cckmCH9e.s 			page 9
+>>>>>>> kz/master
 
 
  246 0021 00000000 		.4byte	.Ldebug_line0
@@ -575,10 +611,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 1
  301 008b 48000000 		.4byte	0x48
  302 008f 02       		.uleb128 0x2
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccvgiebM.s 			page 10
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 10
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cckmCH9e.s 			page 10
+>>>>>>> kz/master
 
 
  303 0090 04       		.byte	0x4
@@ -639,10 +679,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 1
  358 0104 01       		.byte	0x1
  359 0105 86       		.byte	0x86
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccvgiebM.s 			page 11
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 11
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cckmCH9e.s 			page 11
+>>>>>>> kz/master
 
 
  360 0106 77000000 		.4byte	0x77
@@ -703,10 +747,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 1
  415 0005 13       		.uleb128 0x13
  416 0006 0B       		.uleb128 0xb
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccvgiebM.s 			page 12
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 12
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cckmCH9e.s 			page 12
+>>>>>>> kz/master
 
 
  417 0007 03       		.uleb128 0x3
@@ -767,10 +815,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 1
  472 003e 2E       		.uleb128 0x2e
  473 003f 01       		.byte	0x1
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccvgiebM.s 			page 13
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 13
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cckmCH9e.s 			page 13
+>>>>>>> kz/master
 
 
  474 0040 3F       		.uleb128 0x3f
@@ -831,10 +883,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 1
  529 0078 18       		.uleb128 0x18
  530 0079 9742     		.uleb128 0x2117
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccvgiebM.s 			page 14
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 14
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cckmCH9e.s 			page 14
+>>>>>>> kz/master
 
 
  531 007b 19       		.uleb128 0x19
@@ -895,10 +951,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 1
  586 001c 20000000 		.4byte	.LFE1-.LFB1
  587 0020 00000000 		.4byte	.LFB2
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccvgiebM.s 			page 15
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 15
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cckmCH9e.s 			page 15
+>>>>>>> kz/master
 
 
  588 0024 44000000 		.4byte	.LFE2-.LFB2
@@ -1044,7 +1104,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 1
  624              	.LASF1:
  625 0069 756E7369 		.ascii	"unsigned char\000"
  625      676E6564 
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 16
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cckmCH9e.s 			page 16
 
 
  625      20636861 
@@ -1104,8 +1164,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 1
  647      333200
  648              	.LASF27:
  649 016b 443A5C43 		.ascii	"D:\\Cypress\\system-start-finish\\vesion 2\\fw\\sta"
+<<<<<<< HEAD
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 17
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cckmCH9e.s 			page 17
+>>>>>>> kz/master
 
 
  649      206C6F6E 
@@ -1200,8 +1264,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 1
  671 0272 7369676E 		.ascii	"signed char\000"
  671      65642063 
  671      68617200 
+<<<<<<< HEAD
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc1lAWvZ.s 			page 18
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\cckmCH9e.s 			page 18
+>>>>>>> kz/master
 
 
  672              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.9.3 20150303 (release) [ARM/embedded-4_9-br

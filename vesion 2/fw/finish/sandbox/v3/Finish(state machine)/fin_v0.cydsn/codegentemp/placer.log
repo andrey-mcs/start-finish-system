@@ -7,10 +7,14 @@
 #Build Date:         Apr 25 2016 12:55:34
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #File Generated:     Aug 16 2016 12:19:24
 =======
 #File Generated:     Aug 16 2016 11:59:25
 >>>>>>> kodizhuk/master
+=======
+#File Generated:     Aug 29 2016 22:52:46
+>>>>>>> kz/master
 
 #Purpose:            
 
@@ -181,8 +185,12 @@ D2088: Phase 8, elapsed time : 0.0 (sec)
 D2054: Placement of the design completed successfully
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 I2076: Total run-time: 21.1 sec.
 =======
 I2076: Total run-time: 0.9 sec.
 >>>>>>> kodizhuk/master
+=======
+I2076: Total run-time: 0.4 sec.
+>>>>>>> kz/master
 

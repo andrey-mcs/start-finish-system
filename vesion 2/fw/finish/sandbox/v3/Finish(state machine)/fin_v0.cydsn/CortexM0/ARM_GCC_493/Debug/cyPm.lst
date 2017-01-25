@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 1
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 1
+>>>>>>> kz/master
 
 
    1              		.cpu cortex-m0
@@ -63,10 +67,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
   32:.\Generated_Source\PSoC4/cyPm.h **** the CPU (and all peripherals) goes through a full reset.
   33:.\Generated_Source\PSoC4/cyPm.h **** 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 2
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 2
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 2
+>>>>>>> kz/master
 
 
   34:.\Generated_Source\PSoC4/cyPm.h **** There is a full range of power modes supported by PSoC devices to control power consumption and the
@@ -127,10 +135,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
   89:.\Generated_Source\PSoC4/cyPm.h **** #if(CY_IP_SRSSV2)
   90:.\Generated_Source\PSoC4/cyPm.h ****     void CySysPmHibernate(void);
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 3
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 3
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 3
+>>>>>>> kz/master
 
 
   91:.\Generated_Source\PSoC4/cyPm.h ****     void CySysPmFreezeIo(void);
@@ -191,10 +203,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
  146:.\Generated_Source\PSoC4/cyPm.h **** 
  147:.\Generated_Source\PSoC4/cyPm.h **** /* Power System Key & Delay Register */
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 4
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 4
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 4
+>>>>>>> kz/master
 
 
  148:.\Generated_Source\PSoC4/cyPm.h **** #define CY_PM_PWR_KEY_DELAY_REG             (*(reg32 *) CYREG_PWR_KEY_DELAY)
@@ -255,10 +271,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
  203:.\Generated_Source\PSoC4/cyPm.h **** #endif /* (CY_IP_SRSSV2) */
  204:.\Generated_Source\PSoC4/cyPm.h **** 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 5
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 5
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 5
+>>>>>>> kz/master
 
 
  205:.\Generated_Source\PSoC4/cyPm.h **** #if (CY_PSOC4_4100 || CY_PSOC4_4200)
@@ -319,10 +339,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
   51 0022 9200     		lsl	r2, r2, #2
   52 0024 9208     		lsr	r2, r2, #2
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 6
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 6
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 6
+>>>>>>> kz/master
 
 
   53 0026 1A60     		str	r2, [r3]
@@ -383,10 +407,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
  260:.\Generated_Source\PSoC4/cyPm.h ****             #ifdef CYREG_GPIO_PRT9_PC
  261:.\Generated_Source\PSoC4/cyPm.h ****                 CY_CLEAR_REG32_FIELD( CYREG_GPIO_PRT9_PC, CYFLD_GPIO_PRT_PORT_IB_MODE_SEL);
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 7
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 7
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 7
+>>>>>>> kz/master
 
 
  262:.\Generated_Source\PSoC4/cyPm.h ****             #endif /* CYREG_GPIO_PRT9_PC */
@@ -447,10 +475,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
    4:.\Generated_Source\PSoC4/cyPm.c **** *
    5:.\Generated_Source\PSoC4/cyPm.c **** * \brief Provides an API for the power management.
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 8
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 8
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 8
+>>>>>>> kz/master
 
 
    6:.\Generated_Source\PSoC4/cyPm.c **** *
@@ -511,10 +543,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
  129 0018 8A43     		bic	r2, r1
  130 001a 1A60     		str	r2, [r3]
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 9
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 9
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 9
+>>>>>>> kz/master
 
 
   40:.\Generated_Source\PSoC4/cyPm.c **** 
@@ -575,10 +611,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
   64:.\Generated_Source\PSoC4/cyPm.c **** {
  162              		.loc 2 64 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 10
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 10
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 10
+>>>>>>> kz/master
 
 
  163              		.cfi_startproc
@@ -639,10 +679,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
  197 0030 1A60     		str	r2, [r3]
   86:.\Generated_Source\PSoC4/cyPm.c **** 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 11
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 11
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 11
+>>>>>>> kz/master
 
 
   87:.\Generated_Source\PSoC4/cyPm.c ****     #if(CY_IP_SRSSV2)
@@ -703,10 +747,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
  231 0064 10ED00E0 		.word	-536810224
  232 0068 00010B40 		.word	1074462976
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 12
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 12
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 12
+>>>>>>> kz/master
 
 
  233              		.cfi_endproc
@@ -767,10 +815,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
  142:.\Generated_Source\PSoC4/cyPm.c ****         interruptState = CyEnterCriticalSection();
  255              		.loc 2 142 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 13
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 13
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 13
+>>>>>>> kz/master
 
 
  256 0006 FC1D     		add	r4, r7, #7
@@ -831,10 +883,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
  291 0046 1A60     		str	r2, [r3]
  163:.\Generated_Source\PSoC4/cyPm.c **** 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 14
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 14
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 14
+>>>>>>> kz/master
 
 
  164:.\Generated_Source\PSoC4/cyPm.c ****         /* Sleep and wait for interrupt. Wakeup from Hibernate is performed
@@ -895,10 +951,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
  184:.\Generated_Source\PSoC4/cyPm.c ****     * the Digital Input Pin component should be placed on the schematic,
  185:.\Generated_Source\PSoC4/cyPm.c ****     * assigned to the wakeup pin, and resistively pulled up or down to the inverse
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 15
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 15
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 15
+>>>>>>> kz/master
 
 
  186:.\Generated_Source\PSoC4/cyPm.c ****     * state of the wakeup polarity. To distinguish the wakeup from the Stop mode
@@ -959,10 +1019,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
  211:.\Generated_Source\PSoC4/cyPm.c ****          * the final AHB transaction may or may not complete. To guard against
  212:.\Generated_Source\PSoC4/cyPm.c ****          * accidentally executing an unintended instruction, it is recommended
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 16
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 16
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 16
+>>>>>>> kz/master
 
 
  213:.\Generated_Source\PSoC4/cyPm.c ****          * to add 2 NOP cycles after the final write to the STOP register.
@@ -1023,10 +1087,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
  233:.\Generated_Source\PSoC4/cyPm.c ****     * causing a normal boot procedure to occur. This function assigns
  234:.\Generated_Source\PSoC4/cyPm.c ****     * the wakeup pin active level. Setting the wakeup pin to this level will cause
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 17
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 17
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 17
+>>>>>>> kz/master
 
 
  235:.\Generated_Source\PSoC4/cyPm.c ****     * the wakeup from stop mode. The wakeup pin is active low by default.
@@ -1087,10 +1155,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
  430              	.L18:
  248:.\Generated_Source\PSoC4/cyPm.c ****                             (CY_PM_PWR_STOP_REG | CY_PM_PWR_STOP_POLARITY) :
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 18
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 18
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 18
+>>>>>>> kz/master
 
 
  431              		.loc 2 248 0
@@ -1151,10 +1223,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
  465              		.cfi_offset 14, -4
  466 0002 82B0     		sub	sp, sp, #8
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 19
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 19
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 19
+>>>>>>> kz/master
 
 
  467              		.cfi_def_cfa_offset 16
@@ -1215,10 +1291,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
  496              		.loc 2 284 0
  497 002a 02E0     		b	.L26
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 20
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 20
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 20
+>>>>>>> kz/master
 
 
  498              	.L24:
@@ -1279,10 +1359,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
  531              		.cfi_def_cfa_offset 12
  532              		.cfi_offset 4, -12
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 21
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 21
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 21
+>>>>>>> kz/master
 
 
  533              		.cfi_offset 7, -8
@@ -1343,10 +1427,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
  566 0030 064B     		ldr	r3, .L32
  567 0032 1B68     		ldr	r3, [r3]
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 22
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 22
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 22
+>>>>>>> kz/master
 
 
  335:.\Generated_Source\PSoC4/cyPm.c **** 
@@ -1407,10 +1495,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
  357:.\Generated_Source\PSoC4/cyPm.c ****     * This API is not available for PSoC 4000 family of devices.
  358:.\Generated_Source\PSoC4/cyPm.c ****     *
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 23
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 23
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 23
+>>>>>>> kz/master
 
 
  359:.\Generated_Source\PSoC4/cyPm.c ****     *******************************************************************************/
@@ -1471,10 +1563,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
  379:.\Generated_Source\PSoC4/cyPm.c ****         CY_PM_PWR_STOP_REG &= (CY_PM_PWR_STOP_TOKEN_MASK | CY_PM_PWR_STOP_POLARITY);
  635              		.loc 2 379 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 24
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 24
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 24
+>>>>>>> kz/master
 
 
  636 002a 074B     		ldr	r3, .L35
@@ -1535,10 +1631,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
  688 0036 2E020000 		.4byte	.LASF2
  689 003a 02       		.uleb128 0x2
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 25
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 25
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 25
+>>>>>>> kz/master
 
 
  690 003b 02       		.byte	0x2
@@ -1599,10 +1699,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
  745 00a5 00000000 		.4byte	.LASF15
  746 00a9 03       		.byte	0x3
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 26
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 26
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 26
+>>>>>>> kz/master
 
 
  747 00aa 4302     		.2byte	0x243
@@ -1663,10 +1767,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
  802 0122 02       		.uleb128 0x2
  803 0123 91       		.byte	0x91
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 27
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 27
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 27
+>>>>>>> kz/master
 
 
  804 0124 6F       		.sleb128 -17
@@ -1727,10 +1835,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
  859 0191 02       		.byte	0x2
  860 0192 F4       		.byte	0xf4
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 28
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 28
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 28
+>>>>>>> kz/master
 
 
  861 0193 6B000000 		.4byte	0x6b
@@ -1791,10 +1903,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
  916 0209 02       		.uleb128 0x2
  917 020a 91       		.byte	0x91
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 29
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 29
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 29
+>>>>>>> kz/master
 
 
  918 020b 6F       		.sleb128 -17
@@ -1855,10 +1971,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
  973 0032 49       		.uleb128 0x49
  974 0033 13       		.uleb128 0x13
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 30
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 30
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 30
+>>>>>>> kz/master
 
 
  975 0034 00       		.byte	0
@@ -1919,10 +2039,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
  1030 006d 08       		.uleb128 0x8
  1031 006e 34       		.uleb128 0x34
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 31
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 31
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 31
+>>>>>>> kz/master
 
 
  1032 006f 00       		.byte	0
@@ -1983,10 +2107,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
  1087 00a7 19       		.uleb128 0x19
  1088 00a8 03       		.uleb128 0x3
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 32
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 32
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 32
+>>>>>>> kz/master
 
 
  1089 00a9 0E       		.uleb128 0xe
@@ -2047,10 +2175,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
  1144 00e1 9642     		.uleb128 0x2116
  1145 00e3 19       		.uleb128 0x19
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 33
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 33
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 33
+>>>>>>> kz/master
 
 
  1146 00e4 01       		.uleb128 0x1
@@ -2111,10 +2243,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
  1201 005c 00000000 		.4byte	0
  1202              		.section	.debug_ranges,"",%progbits
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 34
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 34
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 34
+>>>>>>> kz/master
 
 
  1203              	.Ldebug_ranges0:
@@ -2175,10 +2311,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
  1238      6E617465 
  1238      00
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccxIwI72.s 			page 35
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 35
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 35
+>>>>>>> kz/master
 
 
  1239              	.LASF29:
@@ -2343,7 +2483,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
  1260      74696F6E 
  1260      2D736563 
  1260      74696F6E 
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 36
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 36
 
 
  1261              	.LASF10:
@@ -2403,7 +2543,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 1
  1285              	.LASF21:
  1286 0236 636C6B53 		.ascii	"clkSelectReg\000"
  1286      656C6563 
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccT0NBP1.s 			page 37
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccII1W3l.s 			page 37
 
 
  1286      74526567 

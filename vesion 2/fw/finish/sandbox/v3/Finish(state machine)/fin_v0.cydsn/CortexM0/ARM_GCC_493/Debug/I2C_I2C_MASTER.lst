@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccZfFrkG.s 			page 1
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 1
+>>>>>>> kz/master
 
 
    1              		.cpu cortex-m0
@@ -63,10 +67,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
   22:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c **** #if(I2C_I2C_MASTER_CONST)
   23:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c **** 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccZfFrkG.s 			page 2
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 2
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 2
+>>>>>>> kz/master
 
 
   24:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c **** /***************************************
@@ -127,10 +135,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
   79:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c **** *    The master started the transfer.
   80:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c **** *  - I2C_I2C_MSTR_BUS_BUSY - Bus is busy. Nothing was sent on
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccZfFrkG.s 			page 3
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 3
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 3
+>>>>>>> kz/master
 
 
   81:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c **** *    the bus. The attempt has to be retried.
@@ -191,10 +203,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  109:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****             I2C_DisableInt();  /* Lock from interruption */
   62              		.loc 1 109 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccZfFrkG.s 			page 4
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 4
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 4
+>>>>>>> kz/master
 
 
   63 0022 0920     		mov	r0, #9
@@ -255,10 +271,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  127:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****     if(I2C_I2C_MSTR_NO_ERROR == errStatus) /* No error proceed */
  101              		.loc 1 127 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccZfFrkG.s 			page 5
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 5
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 5
+>>>>>>> kz/master
 
 
  102 005a 7B69     		ldr	r3, [r7, #20]
@@ -319,10 +339,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  140 0096 0222     		mov	r2, #2
  141 0098 9343     		bic	r3, r2
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccZfFrkG.s 			page 6
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 6
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 6
+>>>>>>> kz/master
 
 
  142 009a 9AB2     		uxth	r2, r3
@@ -383,10 +407,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  178              	.L6:
  164:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****         }
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccZfFrkG.s 			page 7
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 7
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 7
+>>>>>>> kz/master
 
 
  165:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****     }
@@ -447,10 +475,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  181:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c **** *  status.
  182:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c **** *
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccZfFrkG.s 			page 8
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 8
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 8
+>>>>>>> kz/master
 
 
  183:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c **** *  \param slaveAddr: 7-bit slave address.
@@ -511,10 +543,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  217:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****         /* Check FSM state and bus before generating Start/ReStart condition */
  218:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****         if(I2C_CHECK_I2C_FSM_IDLE)
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccZfFrkG.s 			page 9
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 9
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 9
+>>>>>>> kz/master
 
 
  239              		.loc 1 218 0
@@ -575,10 +611,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  283              	.L12:
  230:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****         }
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccZfFrkG.s 			page 10
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 10
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 10
+>>>>>>> kz/master
 
 
  231:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****         else
@@ -639,10 +679,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  253:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c **** 
  254:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****         I2C_mstrStatus &= (uint16) ~I2C_I2C_MSTAT_RD_CMPLT;
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccZfFrkG.s 			page 11
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 11
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 11
+>>>>>>> kz/master
 
 
  317              		.loc 1 254 0
@@ -703,10 +747,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  273:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****         /* Generate Start or ReStart */
  274:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****         if(I2C_CHECK_I2C_MODE_RESTART(mode))
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccZfFrkG.s 			page 12
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 12
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 12
+>>>>>>> kz/master
 
 
  354              		.loc 1 274 0
@@ -767,10 +815,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  394 0108 00000000 		.word	I2C_mstrRdBufSize
  395 010c 00000000 		.word	I2C_mstrRdBufPtr
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccZfFrkG.s 			page 13
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 13
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 13
+>>>>>>> kz/master
 
 
  396 0110 00000000 		.word	I2C_mstrControl
@@ -831,10 +883,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  327:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c **** *     condition generation was aborted due to beginning of Slave operation. 
  328:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c **** *     This error condition is only applicable for Multi-Master-Slave mode.
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccZfFrkG.s 			page 14
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 14
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 14
+>>>>>>> kz/master
 
 
  329:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c **** *
@@ -895,10 +951,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  349:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****         }
  350:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****         else
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccZfFrkG.s 			page 15
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 15
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 15
+>>>>>>> kz/master
 
 
  351:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****         {
@@ -959,10 +1019,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  481 005c 1A60     		str	r2, [r3]
  374:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****             I2C_ClearMasterInterruptSource(I2C_INTR_MASTER_ALL);
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccZfFrkG.s 			page 16
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 16
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 16
+>>>>>>> kz/master
 
 
  482              		.loc 1 374 0
@@ -1023,10 +1087,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  516 0090 02D0     		beq	.L31
  396:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****             {
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccZfFrkG.s 			page 17
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 17
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 17
+>>>>>>> kz/master
 
 
  397:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****                 errStatus = I2C_I2C_MSTR_ERR_LB_NAK;
@@ -1087,10 +1155,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  556 00c8 1A60     		str	r2, [r3]
  413:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****                                                         I2C_INTR_MASTER_I2C_NACK     |
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccZfFrkG.s 			page 18
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 18
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 18
+>>>>>>> kz/master
 
 
  414:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****                                                         I2C_INTR_MASTER_I2C_ARB_LOST |
@@ -1151,10 +1223,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  599              		.global	I2C_I2CMasterSendRestart
  600              		.code	16
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccZfFrkG.s 			page 19
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 19
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 19
+>>>>>>> kz/master
 
 
  601              		.thumb_func
@@ -1215,10 +1291,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  619 000c FB60     		str	r3, [r7, #12]
  464:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****     errStatus = I2C_I2C_MSTR_NOT_READY;
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccZfFrkG.s 			page 20
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 20
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 20
+>>>>>>> kz/master
 
 
  620              		.loc 1 464 0
@@ -1279,10 +1359,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  482:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c **** 
  483:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****         /* Clean-up interrupt status */
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccZfFrkG.s 			page 21
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 21
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 21
+>>>>>>> kz/master
 
 
  484:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****         I2C_ClearMasterInterruptSource(I2C_INTR_MASTER_ALL);
@@ -1343,10 +1427,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  510:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****         if(I2C_CHECK_INTR_MASTER(I2C_INTR_MASTER_I2C_ACK))
  687              		.loc 1 510 0 is_stmt 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccZfFrkG.s 			page 22
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 22
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 22
+>>>>>>> kz/master
 
 
  688 0072 204B     		ldr	r3, .L47+4
@@ -1407,10 +1495,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  727              		.loc 1 526 0
  728 00ac 104B     		ldr	r3, .L47
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccZfFrkG.s 			page 23
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 23
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 23
+>>>>>>> kz/master
 
 
  729 00ae 1022     		mov	r2, #16
@@ -1471,10 +1563,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  766 00e6 181C     		mov	r0, r3
  767 00e8 BD46     		mov	sp, r7
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccZfFrkG.s 			page 24
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 24
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 24
+>>>>>>> kz/master
 
 
  768 00ea 04B0     		add	sp, sp, #16
@@ -1535,10 +1631,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  793 0000 80B5     		push	{r7, lr}
  794              		.cfi_def_cfa_offset 8
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccZfFrkG.s 			page 25
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 25
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 25
+>>>>>>> kz/master
 
 
  795              		.cfi_offset 7, -8
@@ -1605,8 +1705,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  834 0036 1A60     		str	r2, [r3]
  590:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c **** 
  591:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****         while(!I2C_CHECK_INTR_MASTER(I2C_INTR_MASTER_I2C_STOP     |
+<<<<<<< HEAD
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 26
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 26
+>>>>>>> kz/master
 
 
  834 0036 1A60     		str	r2, [r3]
@@ -1676,8 +1780,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  870              		.loc 1 610 0
  871 006a 8023     		mov	r3, #128
  872 006c 5B00     		lsl	r3, r3, #1
+<<<<<<< HEAD
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 27
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 27
+>>>>>>> kz/master
 
 
  870              		.loc 1 613 0
@@ -1745,8 +1853,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  909              		.loc 1 628 0
  910 00a8 3B68     		ldr	r3, [r7]
  629:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c **** }
+<<<<<<< HEAD
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 28
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 28
+>>>>>>> kz/master
 
 
  632:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****     /* /FIX */
@@ -1816,8 +1928,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  939              		.cfi_def_cfa_offset 8
  940              		.cfi_offset 7, -8
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 29
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 29
+>>>>>>> kz/master
 
 
 >>>>>>> kodizhuk/master
@@ -1885,8 +2001,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  676:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****         /* Check results after byte was sent */
  677:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****         if(I2C_CHECK_INTR_MASTER(I2C_INTR_MASTER_I2C_ACK))
  976              		.loc 1 677 0 is_stmt 1
+<<<<<<< HEAD
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 30
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 30
+>>>>>>> kz/master
 
 
  679:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****             /* Wait until byte has been transferred */
@@ -1955,8 +2075,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  1018 0072 BB60     		str	r3, [r7, #8]
  691:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****                          resetIp   = I2C_I2C_RESET_ERROR;
  1019              		.loc 1 691 0
+<<<<<<< HEAD
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 31
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 31
+>>>>>>> kz/master
 
 
  696:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****                          errStatus = I2C_I2C_MSTR_ERR_ARB_LOST;
@@ -2026,6 +2150,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  1058 00b0 1A60     		str	r2, [r3]
  1059              	.L61:
 <<<<<<< HEAD
+<<<<<<< HEAD
  715:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****         }
  716:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****     }
  717:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c **** 
@@ -2033,6 +2158,9 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  1060              		.loc 1 718 0
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 32
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 32
+>>>>>>> kz/master
 
 
  709:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****         }
@@ -2114,7 +2242,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  737:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c **** * \sideeffect
  738:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c **** *  A valid Start or ReStart condition must be generated before calling
  739:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c **** *  this function. This function does nothing if Start or ReStart condition
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 33
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 33
 
 
  740:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c **** *  failed before this function was called.
@@ -2179,10 +2307,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  1123 0030 FF33     		add	r3, r3, #255
  1124 0032 1340     		and	r3, r2
 <<<<<<< HEAD
+<<<<<<< HEAD
  762:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****               (!I2C_CHECK_INTR_MASTER(I2C_INTR_MASTER_I2C_ARB_LOST |
  1125              		.loc 1 762 0 discriminator 1
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 34
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 34
+>>>>>>> kz/master
 
 
  756:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****               (!I2C_CHECK_INTR_MASTER(I2C_INTR_MASTER_I2C_ARB_LOST |
@@ -2254,7 +2386,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  778:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****             }
  779:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****         }
  780:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****         else
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 35
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 35
 
 
  781:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****         {
@@ -2319,8 +2451,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  1203              		.type	I2C_I2CMasterGetReadBufSize, %function
  1204              	I2C_I2CMasterGetReadBufSize:
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 36
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 36
+>>>>>>> kz/master
 
 
 >>>>>>> kodizhuk/master
@@ -2385,8 +2521,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  1233              		.thumb_func
  1234              		.type	I2C_I2CMasterGetWriteBufSize, %function
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 37
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 37
+>>>>>>> kz/master
 
 
 >>>>>>> kodizhuk/master
@@ -2451,8 +2591,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  1263              		.code	16
  1264              		.thumb_func
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 38
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 38
+>>>>>>> kz/master
 
 
 >>>>>>> kodizhuk/master
@@ -2517,8 +2661,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  1297              		@ sp needed
  1298 0028 80BD     		pop	{r7, pc}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 39
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 39
+>>>>>>> kz/master
 
 
 >>>>>>> kodizhuk/master
@@ -2583,8 +2731,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  1334 0016 0222     		mov	r2, #2
  1335 0018 9343     		bic	r3, r2
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 40
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 40
+>>>>>>> kz/master
 
 
 >>>>>>> kodizhuk/master
@@ -2696,7 +2848,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  916:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c **** *    not acknowledge address.
  917:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c **** *  - I2C_I2C_MSTAT_ERR_ARB_LOST - Error condition: Master lost 
  918:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c **** *    arbitration during communications with slave.
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 41
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 41
 
 
  919:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c **** *  - I2C_I2C_MSTAT_ERR_BUS_ERROR - Error condition: bus error 
@@ -2760,8 +2912,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  1389              		.loc 1 945 0
  1390 0024 7B68     		ldr	r3, [r7, #4]
  1391 0026 0422     		mov	r2, #4
+<<<<<<< HEAD
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 42
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 42
+>>>>>>> kz/master
 
 
  949:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****     {
@@ -2831,8 +2987,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  1423              		.cfi_startproc
  1424 0000 80B5     		push	{r7, lr}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 43
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 43
+>>>>>>> kz/master
 
 
 >>>>>>> kodizhuk/master
@@ -2897,6 +3057,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  1468              	I2C_I2CReStartGeneration:
  1469              	.LFB15:
 <<<<<<< HEAD
+<<<<<<< HEAD
  988:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c **** 
  989:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c **** 
  990:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c **** /*******************************************************************************
@@ -2904,6 +3065,9 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  992:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c **** ****************************************************************************//**
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 44
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 44
+>>>>>>> kz/master
 
 
  982:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c **** 
@@ -2985,7 +3149,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
 1026:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****     I2C_SET_I2C_SCL_DR(I2C_I2C_SCL_LOW);
 1027:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c **** 
 1028:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****     /* Switch HSIOM to GPIO: SCL goes low */
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 45
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 45
 
 
 1029:.\Generated_Source\PSoC4/I2C_I2C_MASTER.c ****     I2C_SET_I2C_SCL_HSIOM_SEL(I2C_HSIOM_GPIO_SEL);
@@ -3056,8 +3220,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  1494              		.loc 1 1075 0 discriminator 2
  1495 0018 0023     		mov	r3, #0
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 46
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 46
+>>>>>>> kz/master
 
 
 >>>>>>> kodizhuk/master
@@ -3124,7 +3292,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  1547 0036 E8020000 		.4byte	.LASF2
 =======
  1547 0036 1D030000 		.4byte	.LASF2
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 47
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 47
 
 
 >>>>>>> kodizhuk/master
@@ -3189,8 +3357,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  1603 00a4 05       		.uleb128 0x5
  1604 00a5 6B000000 		.4byte	0x6b
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 48
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 48
+>>>>>>> kz/master
 
 
 >>>>>>> kodizhuk/master
@@ -3255,8 +3427,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  1660 0117 09       		.uleb128 0x9
  1661 0118 71010000 		.4byte	.LASF23
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 49
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 49
+>>>>>>> kz/master
 
 
 >>>>>>> kodizhuk/master
@@ -3321,8 +3497,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  1717 0183 D3       		.byte	0xd3
  1718 0184 83000000 		.4byte	0x83
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 50
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 50
+>>>>>>> kz/master
 
 
 >>>>>>> kodizhuk/master
@@ -3387,8 +3567,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  1774 01f8 9C       		.byte	0x9c
  1775 01f9 3A020000 		.4byte	0x23a
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 51
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 51
+>>>>>>> kz/master
 
 
 >>>>>>> kodizhuk/master
@@ -3453,8 +3637,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  1831 026b 83000000 		.4byte	0x83
  1832 026f 02       		.uleb128 0x2
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 52
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 52
+>>>>>>> kz/master
 
 
 >>>>>>> kodizhuk/master
@@ -3519,9 +3707,13 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  1888 02e3 6C       		.sleb128 -20
  1889 02e4 0D       		.uleb128 0xd
 <<<<<<< HEAD
+<<<<<<< HEAD
  1890 02e5 F2020000 		.4byte	.LASF30
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 53
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 53
+>>>>>>> kz/master
 
 
  1890 02e5 27030000 		.4byte	.LASF30
@@ -3586,8 +3778,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  1945 0364 AE03     		.2byte	0x3ae
  1946 0366 83000000 		.4byte	0x83
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 54
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 54
+>>>>>>> kz/master
 
 
 >>>>>>> kodizhuk/master
@@ -3652,8 +3848,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  2002 03db 2B010000 		.4byte	.LASF42
  2003 03df 01       		.byte	0x1
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 55
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 55
+>>>>>>> kz/master
 
 
 >>>>>>> kodizhuk/master
@@ -3718,9 +3918,13 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  2059 0453 00000000 		.4byte	I2C_mstrWrBufIndex
  2060 0457 14       		.uleb128 0x14
 <<<<<<< HEAD
+<<<<<<< HEAD
  2061 0458 3A030000 		.4byte	.LASF49
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 56
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 56
+>>>>>>> kz/master
 
 
  2061 0458 6F030000 		.4byte	.LASF49
@@ -3785,8 +3989,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  2116 002d 0E       		.uleb128 0xe
  2117 002e 3A       		.uleb128 0x3a
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 57
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 57
+>>>>>>> kz/master
 
 
 >>>>>>> kodizhuk/master
@@ -3851,8 +4059,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  2173 0067 00       		.byte	0
  2174 0068 08       		.uleb128 0x8
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 58
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 58
+>>>>>>> kz/master
 
 
 >>>>>>> kodizhuk/master
@@ -3917,8 +4129,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  2230 00a0 12       		.uleb128 0x12
  2231 00a1 06       		.uleb128 0x6
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 59
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 59
+>>>>>>> kz/master
 
 
 >>>>>>> kodizhuk/master
@@ -3983,8 +4199,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  2287 00da 12       		.uleb128 0x12
  2288 00db 06       		.uleb128 0x6
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 60
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 60
+>>>>>>> kz/master
 
 
 >>>>>>> kodizhuk/master
@@ -4049,8 +4269,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  2344 0116 00       		.byte	0
  2345 0117 11       		.uleb128 0x11
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 61
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 61
+>>>>>>> kz/master
 
 
 >>>>>>> kodizhuk/master
@@ -4115,8 +4339,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  2401 0150 00       		.byte	0
  2402 0151 14       		.uleb128 0x14
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 62
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 62
+>>>>>>> kz/master
 
 
 >>>>>>> kodizhuk/master
@@ -4181,8 +4409,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  2458              		.section	.debug_ranges,"",%progbits
  2459              	.Ldebug_ranges0:
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 63
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 63
+>>>>>>> kz/master
 
 
 >>>>>>> kodizhuk/master
@@ -4247,8 +4479,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  2500      65537461 
  2500      72744765 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 64
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 64
+>>>>>>> kz/master
 
 
 >>>>>>> kodizhuk/master
@@ -4313,8 +4549,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  2523              	.LASF36:
  2524 0110 4932435F 		.ascii	"I2C_I2CMasterClearWriteBuf\000"
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 65
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 65
+>>>>>>> kz/master
 
 
 >>>>>>> kodizhuk/master
@@ -4486,7 +4726,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  2546 0217 75696E74 		.ascii	"uint16\000"
  2546      313600
  2547              	.LASF22:
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 66
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 66
 
 
  2548 021e 72644461 		.ascii	"rdData\000"
@@ -4546,7 +4786,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  2571              	.LASF6:
  2572 02f3 6C6F6E67 		.ascii	"long long int\000"
  2572      206C6F6E 
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 67
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 67
 
 
  2572      6720696E 
@@ -4622,7 +4862,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 1
  2598 03b0 4932435F 		.ascii	"I2C_I2CMasterClearStatus\000"
 =======
  2594      66496E64 
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIaoxp3.s 			page 68
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccJK1p44.s 			page 68
 
 
  2594      657800

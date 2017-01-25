@@ -1,13 +1,18 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Loading plugins phase: Elapsed time ==> 0s.922ms
 =======
 Loading plugins phase: Elapsed time ==> 0s.265ms
 >>>>>>> kodizhuk/master
+=======
+Loading plugins phase: Elapsed time ==> 0s.251ms
+>>>>>>> kz/master
 Initializing data phase: Elapsed time ==> 0s.000ms
 <CYPRESSTAG name="CyDsfit arguments...">
 cydsfit arguments: -.fdsnotice -.fdswarpdepfile=warp_dependencies.txt -.fdselabdepfile=elab_dependencies.txt -.fdsbldfile=generated_files.txt -p c:\Cypress\Mainline_v2\Start\start_v0.cydsn\start_v0.cyprj -d CY8C4247LQI-BL483 -s c:\Cypress\Mainline_v2\Start\start_v0.cydsn\Generated_Source\PSoC4 -- -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE</CYPRESSTAG>
 <CYPRESSTAG name="Design elaboration results...">
 </CYPRESSTAG>
+<<<<<<< HEAD
 <<<<<<< HEAD
 Elaboration phase: Elapsed time ==> 10s.472ms
 <CYPRESSTAG name="HDL generation results...">
@@ -19,6 +24,12 @@ Elaboration phase: Elapsed time ==> 1s.765ms
 </CYPRESSTAG>
 HDL generation phase: Elapsed time ==> 0s.078ms
 >>>>>>> kodizhuk/master
+=======
+Elaboration phase: Elapsed time ==> 1s.741ms
+<CYPRESSTAG name="HDL generation results...">
+</CYPRESSTAG>
+HDL generation phase: Elapsed time ==> 0s.050ms
+>>>>>>> kz/master
 <CYPRESSTAG name="Synthesis results...">
 
      | | | | | | |
@@ -53,10 +64,14 @@ Options  :    -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=c:\Cypress\Mai
 
 vlogfe V6.3 IR 41:  Verilog parser
 <<<<<<< HEAD
+<<<<<<< HEAD
 Mon Aug 15 10:52:38 2016
 =======
 Tue Aug 16 14:23:23 2016
 >>>>>>> kodizhuk/master
+=======
+Mon Aug 29 22:55:12 2016
+>>>>>>> kz/master
 
 
 ======================================================================
@@ -67,10 +82,14 @@ Options  :    -yv2 -q10 start_v0.v
 
 vpp V6.3 IR 41:  Verilog Pre-Processor
 <<<<<<< HEAD
+<<<<<<< HEAD
 Mon Aug 15 10:52:38 2016
 =======
 Tue Aug 16 14:23:23 2016
 >>>>>>> kodizhuk/master
+=======
+Mon Aug 29 22:55:12 2016
+>>>>>>> kz/master
 
 Flattening file 'C:\Program Files\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\cy_virtualmux_v1_0\cy_virtualmux_v1_0.v'
 Flattening file 'C:\Program Files\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\ZeroTerminal\ZeroTerminal.v'
@@ -111,6 +130,7 @@ Options  :    -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=c:\Cypress\Mai
 
 tovif V6.3 IR 41:  High-level synthesis
 <<<<<<< HEAD
+<<<<<<< HEAD
 Mon Aug 15 10:52:38 2016
 
 Linking 'C:\Program Files\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\common\std.vhd'.
@@ -135,6 +155,9 @@ Linking 'C:\Program Files\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\common\
 Linking 'C:\Program Files\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\common\stdlogic\cy_psoc3.vif'.
 =======
 Tue Aug 16 14:23:23 2016
+=======
+Mon Aug 29 22:55:13 2016
+>>>>>>> kz/master
 
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\common\std.vhd'.
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\common\cypress.vhd'.
@@ -169,6 +192,7 @@ Options  :    -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=c:\Cypress\Mai
 
 topld V6.3 IR 41:  Synthesis and optimization
 <<<<<<< HEAD
+<<<<<<< HEAD
 Mon Aug 15 10:52:39 2016
 
 Linking 'C:\Program Files\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\common\std.vhd'.
@@ -194,6 +218,9 @@ Linking 'C:\Program Files\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\common\
 Linking 'C:\Program Files\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\lcpsoc3\stdlogic\cpsoc3.vif'.
 =======
 Tue Aug 16 14:23:24 2016
+=======
+Mon Aug 29 22:55:13 2016
+>>>>>>> kz/master
 
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\common\std.vhd'.
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\common\cypress.vhd'.
@@ -407,6 +434,7 @@ Warp Program   : C:\Program Files\Cypress\PSoC Creator\3.3\PSoC Creator\warp\bin
 Warp Arguments : -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=c:\Cypress\Mainline_v2\Start\start_v0.cydsn\start_v0.cyprj -dcpsoc3 start_v0.v -verilog
 </CYPRESSTAG>
 <<<<<<< HEAD
+<<<<<<< HEAD
 Warp synthesis phase: Elapsed time ==> 2s.422ms
 <CYPRESSTAG name="Fitter results...">
 <CYPRESSTAG name="Fitter startup details...">
@@ -414,14 +442,21 @@ cyp3fit: V3.3.0.9604, Family: PSoC3, Started at: Monday, 15 August 2016 10:52:40
 Options: -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=c:\Cypress\Mainline_v2\Start\start_v0.cydsn\start_v0.cyprj -d CY8C4247LQI-BL483 start_v0.v -verilog
 =======
 Warp synthesis phase: Elapsed time ==> 0s.593ms
+=======
+Warp synthesis phase: Elapsed time ==> 0s.582ms
+>>>>>>> kz/master
 <CYPRESSTAG name="Fitter results...">
 <CYPRESSTAG name="Fitter startup details...">
-cyp3fit: V3.3.0.9604, Family: PSoC3, Started at: Tuesday, 16 August 2016 14:23:24
+cyp3fit: V3.3.0.9604, Family: PSoC3, Started at: Monday, 29 August 2016 22:55:13
 Options: -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=D:\Cypress\system-start-finish\vesion 2\fw\start\sandbox\v3\Start(state machine)\start_v0.cydsn\start_v0.cyprj -d CY8C4247LQI-BL483 start_v0.v -verilog
 >>>>>>> kodizhuk/master
 </CYPRESSTAG>
 <CYPRESSTAG name="Design parsing">
+<<<<<<< HEAD
 Design parsing phase: Elapsed time ==> 0s.046ms
+=======
+Design parsing phase: Elapsed time ==> 0s.039ms
+>>>>>>> kz/master
 </CYPRESSTAG>
 <CYPRESSTAG name="Tech mapping">
 <CYPRESSTAG name="Initial Mapping" icon="FILE_RPT_TECHM">
@@ -1310,6 +1345,7 @@ DAC                           :      :      :      :
   8-bit IDAC                  :    0 :    1 :    1 :  0.00 %
 </CYPRESSTAG>
 <<<<<<< HEAD
+<<<<<<< HEAD
 Technology Mapping: Elapsed time ==> 0s.109ms
 Tech mapping phase: Elapsed time ==> 0s.234ms
 </CYPRESSTAG>
@@ -1325,17 +1361,25 @@ Route success=True, Iterations=1 Elapsed=0.0149955 secs
 =======
 Technology Mapping: Elapsed time ==> 0s.015ms
 Tech mapping phase: Elapsed time ==> 0s.046ms
+=======
+Technology Mapping: Elapsed time ==> 0s.024ms
+Tech mapping phase: Elapsed time ==> 0s.065ms
+>>>>>>> kz/master
 </CYPRESSTAG>
 <CYPRESSTAG name="Analog Placement">
 <CYPRESSTAG name="Analog Placement">
-Elapsed time ==> 0.1341689s
+Elapsed time ==> 0.1416032s
 </CYPRESSTAG>
-Analog Placement phase: Elapsed time ==> 0s.343ms
+Analog Placement phase: Elapsed time ==> 0s.362ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Analog Routing">
 <CYPRESSTAG name="Analog Routing">
+<<<<<<< HEAD
 Route success=True, Iterations=1 Elapsed=0.0015493 secs
 >>>>>>> kodizhuk/master
+=======
+Route success=True, Iterations=1 Elapsed=0.0008366 secs
+>>>>>>> kz/master
 </CYPRESSTAG>
 Analog Routing phase: Elapsed time ==> 0s.000ms
 </CYPRESSTAG>
@@ -1349,6 +1393,7 @@ Map of item to net {
 Mux Info {
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 Analog Code Generation phase: Elapsed time ==> 0s.296ms
 =======
 Analog Code Generation phase: Elapsed time ==> 0s.031ms
@@ -1357,6 +1402,13 @@ Analog Code Generation phase: Elapsed time ==> 0s.031ms
 <CYPRESSTAG name="Digital Placement">
 <CYPRESSTAG name="Detailed placement messages">
 I2076: Total run-time: 4.0 sec.
+=======
+Analog Code Generation phase: Elapsed time ==> 0s.016ms
+</CYPRESSTAG>
+<CYPRESSTAG name="Digital Placement">
+<CYPRESSTAG name="Detailed placement messages">
+I2076: Total run-time: 0.4 sec.
+>>>>>>> kz/master
 
 </CYPRESSTAG>
 <CYPRESSTAG name="PLD Packing">
@@ -1397,7 +1449,7 @@ Partitioning: Elapsed time ==> 0s.015ms
 Annealing: Elapsed time ==> 0s.000ms
 <CYPRESSTAG name="Simulated Annealing Results">
 The seed used for moves was 114161200.
-Inital cost was 85, final cost is 85 (0.00% improvement).</CYPRESSTAG>
+Inital cost was 79, final cost is 79 (0.00% improvement).</CYPRESSTAG>
 </CYPRESSTAG>
 <CYPRESSTAG name="Final Placement Summary">
 
@@ -1407,126 +1459,15 @@ Final Placement Summary
 
        Resource Type :      Count : Avg Inputs : Avg Outputs
     ========================================================
-                 UDB :          4 :       1.50 :       1.25
+                 UDB :          3 :       2.00 :       1.67
 <CYPRESSTAG name="Final Placement Details">
 <CYPRESSTAG name="Component Details">
 
 ------------------------------------------------------------
 Component Placement Details
 ------------------------------------------------------------
-UDB [UDB=(0,0)] contents:
-synccell: Name =ClockBlock_LFCLK__SYNC
-    PORT MAP (
-        in => ClockBlock_LFCLK ,
-        out => ClockBlock_LFCLK__SYNC_OUT ,
-        clock => ClockBlock_HFCLK );
-    Properties:
-    {
-    }
-    Clock Polarity: Active High
-    Clock Enable: True
-
-synccell: Name =ClockBlock_LFCLK__SYNC_1
-    PORT MAP (
-        in => ClockBlock_LFCLK ,
-        out => ClockBlock_LFCLK__SYNC_OUT_1 ,
-        clock => ClockBlock_HFCLK );
-    Properties:
-    {
-    }
-    Clock Polarity: Active High
-    Clock Enable: True
-
+UDB [UDB=(0,0)] is empty.
 UDB [UDB=(0,1)] contents:
-LAB@[UDB=(0,1)][LB=0] #macrocells=4, #inputs=5, #pterms=6
-{
-    [McSlotId=0]:     MacroCell: Name=\AppDelay:TimerUDB:timer_enable\, Mode=(D-Register) @ [UDB=(0,1)][LB=0][MC=0]
-        Total # of inputs        : 5
-        Total # of product terms : 3
-        List of special equations: 
-            Clock  = (ClockBlock_HFCLK) => Global
-            Clock Enable: PosEdge(ClockBlock_LFCLK__SYNC_OUT)
-        Main Equation            : 3 pterms
-        (
-              \AppDelay:TimerUDB:control_7\ * 
-              !\AppDelay:TimerUDB:timer_enable\ * 
-              !\AppDelay:TimerUDB:trig_disable\
-            + \AppDelay:TimerUDB:control_7\ * !\AppDelay:TimerUDB:run_mode\ * 
-              !\AppDelay:TimerUDB:trig_disable\
-            + \AppDelay:TimerUDB:control_7\ * !\AppDelay:TimerUDB:per_zero\ * 
-              !\AppDelay:TimerUDB:trig_disable\
-        );
-        Output = \AppDelay:TimerUDB:timer_enable\ (fanout=5)
-        Properties               : 
-        {
-        }
-
-    [McSlotId=1]:     MacroCell: Name=\AppDelay:TimerUDB:trig_disable\, Mode=(T-Register) @ [UDB=(0,1)][LB=0][MC=1]
-        Total # of inputs        : 4
-        Total # of product terms : 1
-        List of special equations: 
-            Clock  = (ClockBlock_HFCLK) => Global
-            Clock Enable: PosEdge(ClockBlock_LFCLK__SYNC_OUT)
-        Main Equation            : 1 pterm
-        (
-              \AppDelay:TimerUDB:timer_enable\ * \AppDelay:TimerUDB:run_mode\ * 
-              \AppDelay:TimerUDB:per_zero\ * 
-              !\AppDelay:TimerUDB:trig_disable\
-        );
-        Output = \AppDelay:TimerUDB:trig_disable\ (fanout=2)
-        Properties               : 
-        {
-        }
-
-    [McSlotId=2]:     MacroCell: Name=\AppDelay:TimerUDB:status_tc\, Mode=(Combinatorial) @ [UDB=(0,1)][LB=0][MC=2]
-        Total # of inputs        : 2
-        Total # of product terms : 1
-            Clock Enable: True
-        Main Equation            : 1 pterm
-        (
-              \AppDelay:TimerUDB:run_mode\ * \AppDelay:TimerUDB:per_zero\
-        );
-        Output = \AppDelay:TimerUDB:status_tc\ (fanout=1)
-        Properties               : 
-        {
-        }
-
-    [McSlotId=3]:     MacroCell: Name=\AppDelay:TimerUDB:run_mode\, Mode=(D-Register) @ [UDB=(0,1)][LB=0][MC=3]
-        Total # of inputs        : 1
-        Total # of product terms : 1
-        List of special equations: 
-            Clock  = (ClockBlock_HFCLK) => Global
-            Clock Enable: PosEdge(ClockBlock_LFCLK__SYNC_OUT)
-        Main Equation            : 1 pterm
-        (
-              \AppDelay:TimerUDB:control_7\
-        );
-        Output = \AppDelay:TimerUDB:run_mode\ (fanout=3)
-        Properties               : 
-        {
-        }
-}
-
-LAB@[UDB=(0,1)][LB=1] #macrocells=1, #inputs=1, #pterms=1
-{
-    [McSlotId=0]:     MacroCell: Name=Net_185, Mode=(Combinatorial) @ [UDB=(0,1)][LB=1][MC=0]
-        Total # of inputs        : 1
-        Total # of product terms : 1
-            Clock Enable: True
-        Main Equation            : 1 pterm
-        (
-              !Net_194
-        );
-        Output = Net_185 (fanout=1)
-        Properties               : 
-        {
-        }
-
-    [McSlotId=1]: (empty)
-    [McSlotId=2]: (empty)
-    [McSlotId=3]: (empty)
-}
-
 datapathcell: Name =\AppDelay:TimerUDB:sT24:timerdp:u0\
     PORT MAP (
         clock => ClockBlock_HFCLK ,
@@ -1562,28 +1503,27 @@ datapathcell: Name =\AppDelay:TimerUDB:sT24:timerdp:u0\
     Clock Enable: PosEdge(ClockBlock_LFCLK__SYNC_OUT)
     Next in chain : \AppDelay:TimerUDB:sT24:timerdp:u1\
 
-controlcell: Name =\AppDelay:TimerUDB:sCTRLReg:SyncCtl:ctrlreg\
+synccell: Name =ClockBlock_LFCLK__SYNC
     PORT MAP (
-        clock => ClockBlock_HFCLK ,
-        control_7 => \AppDelay:TimerUDB:control_7\ ,
-        control_6 => \AppDelay:TimerUDB:control_6\ ,
-        control_5 => \AppDelay:TimerUDB:control_5\ ,
-        control_4 => \AppDelay:TimerUDB:control_4\ ,
-        control_3 => \AppDelay:TimerUDB:control_3\ ,
-        control_2 => \AppDelay:TimerUDB:control_2\ ,
-        control_1 => \AppDelay:TimerUDB:control_1\ ,
-        control_0 => \AppDelay:TimerUDB:control_0\ ,
-        clk_en => ClockBlock_LFCLK__SYNC_OUT_1 );
+        in => ClockBlock_LFCLK ,
+        out => ClockBlock_LFCLK__SYNC_OUT ,
+        clock => ClockBlock_HFCLK );
     Properties:
     {
-        cy_ctrl_mode_0 = "11111111"
-        cy_ctrl_mode_1 = "00000000"
-        cy_ext_reset = 0
-        cy_force_order = 1
-        cy_init_value = "00000000"
     }
     Clock Polarity: Active High
-    Clock Enable: PosEdge(ClockBlock_LFCLK__SYNC_OUT_1)
+    Clock Enable: True
+
+synccell: Name =ClockBlock_LFCLK__SYNC_1
+    PORT MAP (
+        in => ClockBlock_LFCLK ,
+        out => ClockBlock_LFCLK__SYNC_OUT_1 ,
+        clock => ClockBlock_HFCLK );
+    Properties:
+    {
+    }
+    Clock Polarity: Active High
+    Clock Enable: True
 
 UDB [UDB=(1,0)] contents:
 datapathcell: Name =\AppDelay:TimerUDB:sT24:timerdp:u2\
@@ -1641,6 +1581,95 @@ statusicell: Name =\AppDelay:TimerUDB:rstSts:stsreg\
     Clock Enable: PosEdge(ClockBlock_LFCLK__SYNC_OUT)
 
 UDB [UDB=(1,1)] contents:
+LAB@[UDB=(1,1)][LB=0] #macrocells=4, #inputs=5, #pterms=6
+{
+    [McSlotId=0]:     MacroCell: Name=\AppDelay:TimerUDB:timer_enable\, Mode=(D-Register) @ [UDB=(1,1)][LB=0][MC=0]
+        Total # of inputs        : 5
+        Total # of product terms : 3
+        List of special equations: 
+            Clock  = (ClockBlock_HFCLK) => Global
+            Clock Enable: PosEdge(ClockBlock_LFCLK__SYNC_OUT)
+        Main Equation            : 3 pterms
+        (
+              \AppDelay:TimerUDB:control_7\ * 
+              !\AppDelay:TimerUDB:timer_enable\ * 
+              !\AppDelay:TimerUDB:trig_disable\
+            + \AppDelay:TimerUDB:control_7\ * !\AppDelay:TimerUDB:run_mode\ * 
+              !\AppDelay:TimerUDB:trig_disable\
+            + \AppDelay:TimerUDB:control_7\ * !\AppDelay:TimerUDB:per_zero\ * 
+              !\AppDelay:TimerUDB:trig_disable\
+        );
+        Output = \AppDelay:TimerUDB:timer_enable\ (fanout=5)
+        Properties               : 
+        {
+        }
+
+    [McSlotId=1]:     MacroCell: Name=\AppDelay:TimerUDB:trig_disable\, Mode=(T-Register) @ [UDB=(1,1)][LB=0][MC=1]
+        Total # of inputs        : 4
+        Total # of product terms : 1
+        List of special equations: 
+            Clock  = (ClockBlock_HFCLK) => Global
+            Clock Enable: PosEdge(ClockBlock_LFCLK__SYNC_OUT)
+        Main Equation            : 1 pterm
+        (
+              \AppDelay:TimerUDB:timer_enable\ * \AppDelay:TimerUDB:run_mode\ * 
+              \AppDelay:TimerUDB:per_zero\ * 
+              !\AppDelay:TimerUDB:trig_disable\
+        );
+        Output = \AppDelay:TimerUDB:trig_disable\ (fanout=2)
+        Properties               : 
+        {
+        }
+
+    [McSlotId=2]:     MacroCell: Name=\AppDelay:TimerUDB:status_tc\, Mode=(Combinatorial) @ [UDB=(1,1)][LB=0][MC=2]
+        Total # of inputs        : 2
+        Total # of product terms : 1
+            Clock Enable: True
+        Main Equation            : 1 pterm
+        (
+              \AppDelay:TimerUDB:run_mode\ * \AppDelay:TimerUDB:per_zero\
+        );
+        Output = \AppDelay:TimerUDB:status_tc\ (fanout=1)
+        Properties               : 
+        {
+        }
+
+    [McSlotId=3]:     MacroCell: Name=\AppDelay:TimerUDB:run_mode\, Mode=(D-Register) @ [UDB=(1,1)][LB=0][MC=3]
+        Total # of inputs        : 1
+        Total # of product terms : 1
+        List of special equations: 
+            Clock  = (ClockBlock_HFCLK) => Global
+            Clock Enable: PosEdge(ClockBlock_LFCLK__SYNC_OUT)
+        Main Equation            : 1 pterm
+        (
+              \AppDelay:TimerUDB:control_7\
+        );
+        Output = \AppDelay:TimerUDB:run_mode\ (fanout=3)
+        Properties               : 
+        {
+        }
+}
+
+LAB@[UDB=(1,1)][LB=1] #macrocells=1, #inputs=1, #pterms=1
+{
+    [McSlotId=0]: (empty)
+    [McSlotId=1]: (empty)
+    [McSlotId=2]:     MacroCell: Name=Net_185, Mode=(Combinatorial) @ [UDB=(1,1)][LB=1][MC=2]
+        Total # of inputs        : 1
+        Total # of product terms : 1
+            Clock Enable: True
+        Main Equation            : 1 pterm
+        (
+              !Net_194
+        );
+        Output = Net_185 (fanout=1)
+        Properties               : 
+        {
+        }
+
+    [McSlotId=3]: (empty)
+}
+
 datapathcell: Name =\AppDelay:TimerUDB:sT24:timerdp:u1\
     PORT MAP (
         clock => ClockBlock_HFCLK ,
@@ -1677,6 +1706,29 @@ datapathcell: Name =\AppDelay:TimerUDB:sT24:timerdp:u1\
     Clock Enable: PosEdge(ClockBlock_LFCLK__SYNC_OUT)
     Previous in chain : \AppDelay:TimerUDB:sT24:timerdp:u0\
     Next in chain : \AppDelay:TimerUDB:sT24:timerdp:u2\
+
+controlcell: Name =\AppDelay:TimerUDB:sCTRLReg:SyncCtl:ctrlreg\
+    PORT MAP (
+        clock => ClockBlock_HFCLK ,
+        control_7 => \AppDelay:TimerUDB:control_7\ ,
+        control_6 => \AppDelay:TimerUDB:control_6\ ,
+        control_5 => \AppDelay:TimerUDB:control_5\ ,
+        control_4 => \AppDelay:TimerUDB:control_4\ ,
+        control_3 => \AppDelay:TimerUDB:control_3\ ,
+        control_2 => \AppDelay:TimerUDB:control_2\ ,
+        control_1 => \AppDelay:TimerUDB:control_1\ ,
+        control_0 => \AppDelay:TimerUDB:control_0\ ,
+        clk_en => ClockBlock_LFCLK__SYNC_OUT_1 );
+    Properties:
+    {
+        cy_ctrl_mode_0 = "11111111"
+        cy_ctrl_mode_1 = "00000000"
+        cy_ext_reset = 0
+        cy_force_order = 1
+        cy_init_value = "00000000"
+    }
+    Clock Polarity: Active High
+    Clock Enable: PosEdge(ClockBlock_LFCLK__SYNC_OUT_1)
 
 Intr container @ [IntrContainer=(0)]: 
   Intr@ [IntrContainer=(0)][IntrId=(1)] 
@@ -1782,6 +1834,48 @@ Pin : Name = \UART_XB:tx(0)\
         pa_out => \UART_XB:tx(0)\__PA ,
         input => \UART_XB:tx_wire\ ,
         pad => \UART_XB:tx(0)_PAD\ );
+    Properties:
+    {
+    }
+
+[IoId=2]: 
+Pin : Name = GatePin(0)
+    Attributes:
+        In Group/Port: True
+        In Sync Option: NOSYNC
+        Out Sync Option: AUTO
+        Interrupt generated: False
+        Interrupt mode: NONE
+        Drive mode: RES_PULL_UP
+        VTrip: CMOS
+        Slew: FAST
+        Input Sync needed: False
+        Output Sync needed: False
+        SC shield enabled: False
+        POR State: ANY
+        LCD Mode: COMMON
+        Register Mode: RegComb
+        CaSense Mode: NEITHER
+        Treat as pin: True
+        Is OE Registered: False
+        Uses Analog: False
+        Can contain Digital: True
+        Is SIO: False
+        SIO Output Buf: NONREGULATED
+        SIO Input Buf: SINGLE_ENDED
+        SIO HiFreq: LOW
+        SIO Hyst: DISABLED
+        SIO Vtrip: MULTIPLIER_0_5
+        SIO Multiplier Index: 0
+        SIO RefSel: VCC_IO
+        Required Capabilitites: DIGITAL, ROUTABLE
+        Initial Value: 1
+        IO Voltage: 0
+    PORT MAP (
+        pa_out => GatePin(0)__PA ,
+        fb => Net_194 ,
+        annotation => Net_180 ,
+        pad => GatePin(0)_PAD );
     Properties:
     {
     }
@@ -2107,6 +2201,7 @@ Pin : Name = \LCD:LCDPort(6)\
     {
     }
 
+Port 2 contains the following IO cells:
 [IoId=7]: 
 Pin : Name = LED_PIN(0)
     Attributes:
@@ -2144,49 +2239,6 @@ Pin : Name = LED_PIN(0)
         pa_out => LED_PIN(0)__PA ,
         annotation => Net_210 ,
         pad => LED_PIN(0)_PAD );
-    Properties:
-    {
-    }
-
-Port 2 contains the following IO cells:
-[IoId=7]: 
-Pin : Name = GatePin(0)
-    Attributes:
-        In Group/Port: True
-        In Sync Option: NOSYNC
-        Out Sync Option: AUTO
-        Interrupt generated: False
-        Interrupt mode: NONE
-        Drive mode: RES_PULL_UP
-        VTrip: CMOS
-        Slew: FAST
-        Input Sync needed: False
-        Output Sync needed: False
-        SC shield enabled: False
-        POR State: ANY
-        LCD Mode: COMMON
-        Register Mode: RegComb
-        CaSense Mode: NEITHER
-        Treat as pin: True
-        Is OE Registered: False
-        Uses Analog: False
-        Can contain Digital: True
-        Is SIO: False
-        SIO Output Buf: NONREGULATED
-        SIO Input Buf: SINGLE_ENDED
-        SIO HiFreq: LOW
-        SIO Hyst: DISABLED
-        SIO Vtrip: MULTIPLIER_0_5
-        SIO Multiplier Index: 0
-        SIO RefSel: VCC_IO
-        Required Capabilitites: DIGITAL, ROUTABLE
-        Initial Value: 1
-        IO Voltage: 0
-    PORT MAP (
-        pa_out => GatePin(0)__PA ,
-        fb => Net_194 ,
-        annotation => Net_180 ,
-        pad => GatePin(0)_PAD );
     Properties:
     {
     }
@@ -2333,6 +2385,7 @@ Port | Pin | Fixed |      Type |       Drive Mode |                  Name | Conn
 -----+-----+-------+-----------+------------------+-----------------------+----------------------
    0 |   0 |     * |      NONE |     HI_Z_DIGITAL |       \UART_XB:rx(0)\ | FB(\UART_XB:rx_wire\)
      |   1 |     * |      NONE |         CMOS_OUT |       \UART_XB:tx(0)\ | In(\UART_XB:tx_wire\)
+     |   2 |     * |      NONE |      RES_PULL_UP |            GatePin(0) | FB(Net_194)
      |   5 |     * |      NONE |         CMOS_OUT | \SW_UART_DEBUG:tx(0)\ | 
 -----+-----+-------+-----------+------------------+-----------------------+----------------------
    1 |   0 |     * |      NONE |         CMOS_OUT |      \LCD:LCDPort(0)\ | 
@@ -2342,15 +2395,15 @@ Port | Pin | Fixed |      Type |       Drive Mode |                  Name | Conn
      |   4 |     * |      NONE |         CMOS_OUT |      \LCD:LCDPort(4)\ | 
      |   5 |     * |      NONE |         CMOS_OUT |      \LCD:LCDPort(5)\ | 
      |   6 |     * |      NONE |         CMOS_OUT |      \LCD:LCDPort(6)\ | 
-     |   7 |     * |      NONE |    RES_PULL_DOWN |            LED_PIN(0) | 
 -----+-----+-------+-----------+------------------+-----------------------+----------------------
-   2 |   7 |     * |      NONE |      RES_PULL_UP |            GatePin(0) | FB(Net_194)
+   2 |   7 |     * |      NONE |    RES_PULL_DOWN |            LED_PIN(0) | 
 -----+-----+-------+-----------+------------------+-----------------------+----------------------
    3 |   0 |     * |      NONE |    RES_PULL_DOWN |              debug(0) | 
 -------------------------------------------------------------------------------------------------
 </CYPRESSTAG>
 </CYPRESSTAG>
 </CYPRESSTAG>
+<<<<<<< HEAD
 <<<<<<< HEAD
 Digital component placer commit/Report: Elapsed time ==> 0s.000ms
 Digital Placement phase: Elapsed time ==> 6s.032ms
@@ -2367,31 +2420,44 @@ Bitstream verification phase: Elapsed time ==> 0s.078ms
 =======
 Digital component placer commit/Report: Elapsed time ==> 0s.015ms
 Digital Placement phase: Elapsed time ==> 0s.718ms
+=======
+Digital component placer commit/Report: Elapsed time ==> 0s.002ms
+Digital Placement phase: Elapsed time ==> 0s.571ms
+>>>>>>> kz/master
 </CYPRESSTAG>
 <CYPRESSTAG name="Digital Routing">
 Routing successful.
-Digital Routing phase: Elapsed time ==> 0s.734ms
+Digital Routing phase: Elapsed time ==> 0s.728ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Bitstream and API generation">
-Bitstream and API generation phase: Elapsed time ==> 0s.281ms
+Bitstream and API generation phase: Elapsed time ==> 0s.304ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Bitstream verification">
+<<<<<<< HEAD
 Bitstream verification phase: Elapsed time ==> 0s.015ms
 >>>>>>> kodizhuk/master
+=======
+Bitstream verification phase: Elapsed time ==> 0s.022ms
+>>>>>>> kz/master
 </CYPRESSTAG>
 <CYPRESSTAG name="Static timing analysis">
 Warning: sta.M0019: start_v0_timing.html: Warning-1366: Setup time violation found in a path from clock ( CyHFCLK ) to clock ( CyHFCLK ). (File=c:\Cypress\Mainline_v2\Start\start_v0.cydsn\start_v0_timing.html)
 Timing report is in start_v0_timing.html.
 <<<<<<< HEAD
+<<<<<<< HEAD
 Static timing analysis phase: Elapsed time ==> 2s.000ms
 =======
 Static timing analysis phase: Elapsed time ==> 0s.171ms
 >>>>>>> kodizhuk/master
+=======
+Static timing analysis phase: Elapsed time ==> 0s.179ms
+>>>>>>> kz/master
 </CYPRESSTAG>
 <CYPRESSTAG name="Data reporting">
 Data reporting phase: Elapsed time ==> 0s.000ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Database update...">
+<<<<<<< HEAD
 <<<<<<< HEAD
 Design database save phase: Elapsed time ==> 0s.812ms
 </CYPRESSTAG>
@@ -2402,11 +2468,20 @@ API generation phase: Elapsed time ==> 20s.379ms
 Dependency generation phase: Elapsed time ==> 0s.031ms
 =======
 Design database save phase: Elapsed time ==> 0s.171ms
+=======
+Design database save phase: Elapsed time ==> 0s.193ms
+>>>>>>> kz/master
 </CYPRESSTAG>
-cydsfit: Elapsed time ==> 2s.546ms
+cydsfit: Elapsed time ==> 2s.497ms
 </CYPRESSTAG>
+<<<<<<< HEAD
 Fitter phase: Elapsed time ==> 2s.609ms
 API generation phase: Elapsed time ==> 1s.390ms
 Dependency generation phase: Elapsed time ==> 0s.000ms
 >>>>>>> kodizhuk/master
+=======
+Fitter phase: Elapsed time ==> 2s.548ms
+API generation phase: Elapsed time ==> 2s.257ms
+Dependency generation phase: Elapsed time ==> 0s.011ms
+>>>>>>> kz/master
 Cleanup phase: Elapsed time ==> 0s.000ms

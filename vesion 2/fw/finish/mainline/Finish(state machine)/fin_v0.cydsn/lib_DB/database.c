@@ -2,7 +2,7 @@
 #include "lib_DB\database.h"
 
 #define BUFFER_SIZE         MAX_SKIERS_ON_WAY + 4u
-#define MAX_SKIERS_ON_DB    150u
+#define MAX_SKIERS_ON_DB    40u
 
 struct elementBuff
 {
@@ -85,26 +85,14 @@ void getSkiFromWay(uint64_t *unixTime, uint16_t *mills)
 }
 
 
-bool WriteStartTime(uint64_t unixTime, uint16_t mills)
+void WriteStartTime(uint64_t unixTime, uint16_t mills)
 {
     putSkiOnWay(unixTime, mills);
-/*
-    if (skiersStarted == MAX_SKIERS_ON_DB)
-    {
-        skiersStarted = 0;
-    }
-    skierDB[skiersStarted].millsStartSkier = mills;
-    skierDB[skiersStarted].unixStartSkier = unixTime;
-    skiersStarted++;
-    return true;
-*/
-    return 1u;
 }
 
 
-bool WriteFinishTime(uint64_t unixTime, uint16_t mills)
-{
-    
+void WriteFinishTime(uint64_t unixTime, uint16_t mills)
+{   
     if (skiersFinished == MAX_SKIERS_ON_DB)
     {
         skiersFinished = 0;
@@ -114,7 +102,6 @@ bool WriteFinishTime(uint64_t unixTime, uint16_t mills)
     skierDB[skiersFinished].unixFinishSkier = unixTime;
     TimeOnWay(skiersFinished);
     skiersFinished++;
-    return true;
 }
 
 uint32_t SkierOnWay()

@@ -4,8 +4,12 @@
 # Date: Mon, 15 Aug 2016 07:52:54 GMT
 =======
 # Project: D:\Cypress\system-start-finish\vesion 2\fw\start\sandbox\v3\Start(state machine)\start_v0.cydsn\start_v0.cyprj
+<<<<<<< HEAD
 # Date: Tue, 16 Aug 2016 11:23:26 GMT
 >>>>>>> kodizhuk/master
+=======
+# Date: Mon, 29 Aug 2016 19:55:15 GMT
+>>>>>>> kz/master
 #set_units -time ns
 create_clock -name {timer_clock(FFB)} -period 1000000 -waveform {0 500000} [list [get_pins {ClockBlock/ff_div_7}]]
 create_clock -name {UART_XB_SCBCLK(FFB)} -period 8687.5 -waveform {0 4343.75} [list [get_pins {ClockBlock/ff_div_2}]]
@@ -28,5 +32,9 @@ create_generated_clock -name {UART_XB_SCBCLK} -source [get_pins {ClockBlock/hfcl
 =======
 # Component constraints for D:\Cypress\system-start-finish\vesion 2\fw\start\sandbox\v3\Start(state machine)\start_v0.cydsn\TopDesign\TopDesign.cysch
 # Project: D:\Cypress\system-start-finish\vesion 2\fw\start\sandbox\v3\Start(state machine)\start_v0.cydsn\start_v0.cyprj
+<<<<<<< HEAD
 # Date: Tue, 16 Aug 2016 11:23:23 GMT
 >>>>>>> kodizhuk/master
+=======
+# Date: Mon, 29 Aug 2016 19:55:12 GMT
+>>>>>>> kz/master

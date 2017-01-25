@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\cckzOMjo.s 			page 1
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccs1p607.s 			page 1
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIs8Wld.s 			page 1
+>>>>>>> kz/master
 
 
    1              		.cpu cortex-m0
@@ -63,10 +67,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccs1p607.s 			page 1
   25:.\Generated_Source\PSoC4/LED_PIN_PM.c **** ****************************************************************************//**
   26:.\Generated_Source\PSoC4/LED_PIN_PM.c **** *
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\cckzOMjo.s 			page 2
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccs1p607.s 			page 2
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIs8Wld.s 			page 2
+>>>>>>> kz/master
 
 
   27:.\Generated_Source\PSoC4/LED_PIN_PM.c **** * \brief Stores the pin configuration and prepares the pin for entering chip 
@@ -124,13 +132,17 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccs1p607.s 			page 1
   47              	.L3:
   48              		.align	2
   49              	.L2:
-  50 0010 08010440 		.word	1074004232
+  50 0010 08020440 		.word	1074004488
   51 0014 00000000 		.word	LED_PIN_backup
+<<<<<<< HEAD
 <<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\cckzOMjo.s 			page 3
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccs1p607.s 			page 3
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIs8Wld.s 			page 3
+>>>>>>> kz/master
 
 
   52              		.cfi_endproc
@@ -191,10 +203,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccs1p607.s 			page 1
   93:.\Generated_Source\PSoC4/LED_PIN_PM.c ****         LED_PIN_SIO_REG = LED_PIN_backup.sioState;
   94:.\Generated_Source\PSoC4/LED_PIN_PM.c ****     #endif
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\cckzOMjo.s 			page 4
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccs1p607.s 			page 4
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIs8Wld.s 			page 4
+>>>>>>> kz/master
 
 
   95:.\Generated_Source\PSoC4/LED_PIN_PM.c **** }
@@ -205,7 +221,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccs1p607.s 			page 1
   80              	.L6:
   81              		.align	2
   82              	.L5:
-  83 0010 08010440 		.word	1074004232
+  83 0010 08020440 		.word	1074004488
   84 0014 00000000 		.word	LED_PIN_backup
   85              		.cfi_endproc
   86              	.LFE1:
@@ -255,10 +271,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccs1p607.s 			page 1
  130 004f 02       		.uleb128 0x2
  131 0050 08       		.byte	0x8
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\cckzOMjo.s 			page 5
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccs1p607.s 			page 5
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIs8Wld.s 			page 5
+>>>>>>> kz/master
 
 
  132 0051 05       		.byte	0x5
@@ -319,10 +339,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccs1p607.s 			page 1
  187 00bd 07       		.uleb128 0x7
  188 00be 06000000 		.4byte	.LASF16
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\cckzOMjo.s 			page 6
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccs1p607.s 			page 6
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIs8Wld.s 			page 6
+>>>>>>> kz/master
 
 
  189 00c2 03       		.byte	0x3
@@ -383,10 +407,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccs1p607.s 			page 1
  244 0012 00       		.byte	0
  245 0013 02       		.uleb128 0x2
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\cckzOMjo.s 			page 7
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccs1p607.s 			page 7
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIs8Wld.s 			page 7
+>>>>>>> kz/master
 
 
  246 0014 24       		.uleb128 0x24
@@ -447,10 +475,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccs1p607.s 			page 1
  301 004b 0D       		.uleb128 0xd
  302 004c 00       		.byte	0
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\cckzOMjo.s 			page 8
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccs1p607.s 			page 8
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIs8Wld.s 			page 8
+>>>>>>> kz/master
 
 
  303 004d 03       		.uleb128 0x3
@@ -511,10 +543,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccs1p607.s 			page 1
  358 0085 3B       		.uleb128 0x3b
  359 0086 0B       		.uleb128 0xb
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\cckzOMjo.s 			page 9
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccs1p607.s 			page 9
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIs8Wld.s 			page 9
+>>>>>>> kz/master
 
 
  360 0087 49       		.uleb128 0x49
@@ -651,7 +687,7 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccs1p607.s 			page 1
  401      69676E65 
  401      6420696E 
  401      7400
-ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccs1p607.s 			page 10
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIs8Wld.s 			page 10
 
 
  402              	.LASF3:
@@ -711,8 +747,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccs1p607.s 			page 1
  421      79737465 
  421      6D2D7374 
  422 016b 6973685C 		.ascii	"ish\\sandbox\\v3\\Finish(state machine)\\fin_v0.cyd"
+<<<<<<< HEAD
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccs1p607.s 			page 11
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccIs8Wld.s 			page 11
+>>>>>>> kz/master
 
 
  423 0168 4C45445F 		.ascii	"LED_PIN_Wakeup\000"

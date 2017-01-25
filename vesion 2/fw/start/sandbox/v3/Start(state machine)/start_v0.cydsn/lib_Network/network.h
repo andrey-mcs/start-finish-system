@@ -13,6 +13,7 @@
 =======
 >>>>>>> kodizhuk/master
 //#define DEBUG_INFO
+//#define DEBUG_TIME
 
 
 #define READ_OK     1

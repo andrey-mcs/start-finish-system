@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccUtQ08O.s 			page 1
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc28FzKO.s 			page 1
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccThNB6K.s 			page 1
+>>>>>>> kz/master
 
 
    1              		.cpu cortex-m0
@@ -63,10 +67,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc28FzKO.s 			page 1
   24:.\Generated_Source\PSoC4/I2C_PM.c **** #endif /* (I2C_SCB_MODE_I2C_INC) */
   25:.\Generated_Source\PSoC4/I2C_PM.c **** 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccUtQ08O.s 			page 2
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc28FzKO.s 			page 2
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccThNB6K.s 			page 2
+>>>>>>> kz/master
 
 
   26:.\Generated_Source\PSoC4/I2C_PM.c **** #if(I2C_SCB_MODE_EZI2C_INC)
@@ -127,10 +135,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc28FzKO.s 			page 1
   39 0002 00AF     		add	r7, sp, #0
   40              		.cfi_def_cfa_register 7
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccUtQ08O.s 			page 3
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc28FzKO.s 			page 3
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccThNB6K.s 			page 3
+>>>>>>> kz/master
 
 
   75:.\Generated_Source\PSoC4/I2C_PM.c **** #if(I2C_SCB_MODE_UNCONFIG_CONST_CFG)
@@ -191,10 +203,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc28FzKO.s 			page 1
   42 0004 074B     		ldr	r3, .L3
   43 0006 1B68     		ldr	r3, [r3]
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccUtQ08O.s 			page 4
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc28FzKO.s 			page 4
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccThNB6K.s 			page 4
+>>>>>>> kz/master
 
 
   44 0008 DB0F     		lsr	r3, r3, #31
@@ -255,10 +271,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc28FzKO.s 			page 1
  151:.\Generated_Source\PSoC4/I2C_PM.c **** *
  152:.\Generated_Source\PSoC4/I2C_PM.c **** *  This function should not be called after exiting Sleep.
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccUtQ08O.s 			page 5
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc28FzKO.s 			page 5
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccThNB6K.s 			page 5
+>>>>>>> kz/master
 
 
  153:.\Generated_Source\PSoC4/I2C_PM.c **** *
@@ -319,10 +339,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc28FzKO.s 			page 1
  200:.\Generated_Source\PSoC4/I2C_PM.c **** 
  201:.\Generated_Source\PSoC4/I2C_PM.c ****     #elif (I2C_SCB_MODE_EZI2C_CONST_CFG && I2C_EZI2C_WAKE_ENABLE_CONST)
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccUtQ08O.s 			page 6
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc28FzKO.s 			page 6
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccThNB6K.s 			page 6
+>>>>>>> kz/master
 
 
  202:.\Generated_Source\PSoC4/I2C_PM.c ****         I2C_EzI2CRestoreConfig();
@@ -383,10 +407,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc28FzKO.s 			page 1
  121 0021 00000000 		.4byte	.Ldebug_line0
  122 0025 02       		.uleb128 0x2
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccUtQ08O.s 			page 7
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc28FzKO.s 			page 7
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccThNB6K.s 			page 7
+>>>>>>> kz/master
 
 
  123 0026 01       		.byte	0x1
@@ -450,8 +478,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc28FzKO.s 			page 1
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccUtQ08O.s 			page 8
 =======
  179 008d B8000000 		.4byte	.LASF12
+<<<<<<< HEAD
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc28FzKO.s 			page 8
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccThNB6K.s 			page 8
+>>>>>>> kz/master
 
 
  180 0091 02       		.uleb128 0x2
@@ -512,10 +544,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc28FzKO.s 			page 1
  235 00ff 00000000 		.4byte	I2C_backup
  236 0103 00       		.byte	0
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccUtQ08O.s 			page 9
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc28FzKO.s 			page 9
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccThNB6K.s 			page 9
+>>>>>>> kz/master
 
 
  237              		.section	.debug_abbrev,"",%progbits
@@ -576,10 +612,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc28FzKO.s 			page 1
  292 0035 00       		.byte	0
  293 0036 05       		.uleb128 0x5
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccUtQ08O.s 			page 10
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc28FzKO.s 			page 10
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccThNB6K.s 			page 10
+>>>>>>> kz/master
 
 
  294 0037 35       		.uleb128 0x35
@@ -640,10 +680,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc28FzKO.s 			page 1
  349 006e 0B       		.uleb128 0xb
  350 006f 3B       		.uleb128 0x3b
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccUtQ08O.s 			page 11
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc28FzKO.s 			page 11
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccThNB6K.s 			page 11
+>>>>>>> kz/master
 
 
  351 0070 0B       		.uleb128 0xb
@@ -704,10 +748,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc28FzKO.s 			page 1
  406 0000 96000000 		.section	.debug_str,"MS",%progbits,1
  406      02006500 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccUtQ08O.s 			page 12
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc28FzKO.s 			page 12
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccThNB6K.s 			page 12
+>>>>>>> kz/master
 
 
  406      00000201 
@@ -788,8 +836,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc28FzKO.s 			page 1
  428      20636861 
  428      7200
  429              	.LASF13:
+<<<<<<< HEAD
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc28FzKO.s 			page 13
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccThNB6K.s 			page 13
+>>>>>>> kz/master
 
 
  429              	.LASF1:
@@ -903,8 +955,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc28FzKO.s 			page 1
  453      6E203232 
  453      31323230 
  454 01c5 30202D66 		.ascii	"0 -ffunction-sections -ffat-lto-objects\000"
+<<<<<<< HEAD
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\cc28FzKO.s 			page 14
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccThNB6K.s 			page 14
+>>>>>>> kz/master
 
 
  454      536C6565 

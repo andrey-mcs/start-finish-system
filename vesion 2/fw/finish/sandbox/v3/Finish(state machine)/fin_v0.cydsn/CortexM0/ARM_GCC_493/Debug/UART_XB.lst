@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEFWOXH.s 			page 1
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 1
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAecb5k.s 			page 1
+>>>>>>> kz/master
 
 
    1              		.cpu cortex-m0
@@ -63,10 +67,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 1
   13:.\Generated_Source\PSoC4/UART_XB.c **** * You may use this file only in accordance with the license, terms, conditions,
   14:.\Generated_Source\PSoC4/UART_XB.c **** * disclaimers, and limitations in the end user license agreement accompanying
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEFWOXH.s 			page 2
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 2
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAecb5k.s 			page 2
+>>>>>>> kz/master
 
 
   15:.\Generated_Source\PSoC4/UART_XB.c **** * the software package with which this file was provided.
@@ -127,10 +135,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 1
   70:.\Generated_Source\PSoC4/UART_XB.c **** 
   71:.\Generated_Source\PSoC4/UART_XB.c **** /** UART_XB_initVar indicates whether the UART_XB 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEFWOXH.s 			page 3
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 3
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAecb5k.s 			page 3
+>>>>>>> kz/master
 
 
   72:.\Generated_Source\PSoC4/UART_XB.c **** *  component has been initialized. The variable is initialized to 0 
@@ -191,10 +203,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 1
   46 0000 80B5     		push	{r7, lr}
   47              		.cfi_def_cfa_offset 8
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEFWOXH.s 			page 4
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 4
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAecb5k.s 			page 4
+>>>>>>> kz/master
 
 
   48              		.cfi_offset 7, -8
@@ -255,10 +271,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 1
  159:.\Generated_Source\PSoC4/UART_XB.c **** *  For I2C and EZI2C modes the interrupt is internal and mandatory for 
  160:.\Generated_Source\PSoC4/UART_XB.c **** *  operation. For SPI and UART modes the interrupt can be configured as none, 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEFWOXH.s 			page 5
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 5
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAecb5k.s 			page 5
+>>>>>>> kz/master
 
 
  161:.\Generated_Source\PSoC4/UART_XB.c **** *  internal or external.
@@ -319,10 +339,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 1
   92 001c 80BD     		pop	{r7, pc}
   93              	.L4:
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEFWOXH.s 			page 6
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 6
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAecb5k.s 			page 6
+>>>>>>> kz/master
 
 
   94 001e C046     		.align	2
@@ -383,10 +407,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 1
  126 0014 1A70     		strb	r2, [r3]
  127              	.L6:
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEFWOXH.s 			page 7
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 7
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAecb5k.s 			page 7
+>>>>>>> kz/master
 
 
  216:.\Generated_Source\PSoC4/UART_XB.c ****     }
@@ -447,10 +475,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 1
  242:.\Generated_Source\PSoC4/UART_XB.c ****     UART_XB_DisableInt();
  157              		.loc 1 242 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEFWOXH.s 			page 8
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 8
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAecb5k.s 			page 8
+>>>>>>> kz/master
 
 
  158 0004 0A20     		mov	r0, #10
@@ -511,10 +543,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 1
  191              		.code	16
  192              		.thumb_func
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEFWOXH.s 			page 9
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 9
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAecb5k.s 			page 9
+>>>>>>> kz/master
 
 
  193              		.type	UART_XB_SetRxFifoLevel, %function
@@ -575,10 +611,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 1
  224 0022 034B     		ldr	r3, .L13
  225 0024 FA68     		ldr	r2, [r7, #12]
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEFWOXH.s 			page 10
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 10
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAecb5k.s 			page 10
+>>>>>>> kz/master
 
 
  226 0026 1A60     		str	r2, [r3]
@@ -639,10 +679,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 1
  261 000c FB60     		str	r3, [r7, #12]
  309:.\Generated_Source\PSoC4/UART_XB.c **** 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEFWOXH.s 			page 11
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 11
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAecb5k.s 			page 11
+>>>>>>> kz/master
 
 
  310:.\Generated_Source\PSoC4/UART_XB.c ****     txFifoCtrl &= ((uint32) ~UART_XB_TX_FIFO_CTRL_TRIGGER_LEVEL_MASK); /* Clear level mask bits */
@@ -703,10 +747,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 1
  329:.\Generated_Source\PSoC4/UART_XB.c ****     *
  330:.\Generated_Source\PSoC4/UART_XB.c ****     *  \param func: Pointer to the function to register.
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEFWOXH.s 			page 12
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 12
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAecb5k.s 			page 12
+>>>>>>> kz/master
 
 
  331:.\Generated_Source\PSoC4/UART_XB.c ****     *        The value NULL indicates to remove the current custom interrupt
@@ -767,10 +815,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 1
  352:.\Generated_Source\PSoC4/UART_XB.c **** *
  353:.\Generated_Source\PSoC4/UART_XB.c **** *  Enables an interrupt for a specific mode.
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEFWOXH.s 			page 13
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 13
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAecb5k.s 			page 13
+>>>>>>> kz/master
 
 
  354:.\Generated_Source\PSoC4/UART_XB.c **** *
@@ -831,10 +883,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 1
  358              		.cfi_startproc
  359 0000 80B5     		push	{r7, lr}
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEFWOXH.s 			page 14
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 14
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAecb5k.s 			page 14
+>>>>>>> kz/master
 
 
  360              		.cfi_def_cfa_offset 8
@@ -895,10 +951,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 1
  417:.\Generated_Source\PSoC4/UART_XB.c **** *******************************************************************************/
  418:.\Generated_Source\PSoC4/UART_XB.c **** static void UART_XB_ScbModeStop(void)
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEFWOXH.s 			page 15
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 15
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAecb5k.s 			page 15
+>>>>>>> kz/master
 
 
  419:.\Generated_Source\PSoC4/UART_XB.c **** {
@@ -959,10 +1019,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 1
  396              	.LFE11:
  397              		.size	UART_XB_ScbModeStop, .-UART_XB_ScbModeStop
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEFWOXH.s 			page 16
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 16
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAecb5k.s 			page 16
+>>>>>>> kz/master
 
 
  398              		.text
@@ -1026,8 +1090,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 1
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEFWOXH.s 			page 17
 =======
  454 0067 D4010000 		.4byte	.LASF8
+<<<<<<< HEAD
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 17
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAecb5k.s 			page 17
+>>>>>>> kz/master
 
 
  455 006b 04       		.uleb128 0x4
@@ -1088,10 +1156,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 1
  510 00df 24000000 		.4byte	.LFE3-.LFB3
  511 00e3 01       		.uleb128 0x1
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEFWOXH.s 			page 18
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 18
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAecb5k.s 			page 18
+>>>>>>> kz/master
 
 
  512 00e4 9C       		.byte	0x9c
@@ -1152,10 +1224,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 1
  567 0158 3001     		.2byte	0x130
  568 015a 83000000 		.4byte	0x83
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEFWOXH.s 			page 19
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 19
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAecb5k.s 			page 19
+>>>>>>> kz/master
 
 
  569 015e 02       		.uleb128 0x2
@@ -1216,10 +1292,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 1
  624 01ce 12020000 		.4byte	.LASF31
  625 01d2 01       		.byte	0x1
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEFWOXH.s 			page 20
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 20
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAecb5k.s 			page 20
+>>>>>>> kz/master
 
 
  626 01d3 51       		.byte	0x51
@@ -1280,10 +1360,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 1
  681 001f 24       		.uleb128 0x24
  682 0020 00       		.byte	0
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEFWOXH.s 			page 21
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 21
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAecb5k.s 			page 21
+>>>>>>> kz/master
 
 
  683 0021 0B       		.uleb128 0xb
@@ -1344,10 +1428,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 1
  738 0058 27       		.uleb128 0x27
  739 0059 19       		.uleb128 0x19
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEFWOXH.s 			page 22
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 22
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAecb5k.s 			page 22
+>>>>>>> kz/master
 
 
  740 005a 11       		.uleb128 0x11
@@ -1408,10 +1496,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 1
  795 0093 3A       		.uleb128 0x3a
  796 0094 0B       		.uleb128 0xb
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEFWOXH.s 			page 23
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 23
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAecb5k.s 			page 23
+>>>>>>> kz/master
 
 
  797 0095 3B       		.uleb128 0x3b
@@ -1472,10 +1564,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 1
  852 0010 00000000 		.4byte	.LFB2
  853 0014 0C000000 		.4byte	.LFE2-.LFB2
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEFWOXH.s 			page 24
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 24
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAecb5k.s 			page 24
+>>>>>>> kz/master
 
 
  854 0018 00000000 		.4byte	.LFB3
@@ -1536,10 +1632,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 1
  902      7400
  903              	.LASF15:
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEFWOXH.s 			page 25
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 25
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAecb5k.s 			page 25
+>>>>>>> kz/master
 
 
  904 000e 72656733 		.ascii	"reg32\000"
@@ -1600,10 +1700,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 1
  926      69676E65 
  926      6420696E 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\ccEFWOXH.s 			page 26
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 26
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAecb5k.s 			page 26
+>>>>>>> kz/master
 
 
  926      7400
@@ -1719,8 +1823,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 1
  948      65642069 
  949              	.LASF19:
  950 01f8 55415254 		.ascii	"UART_XB_Start\000"
+<<<<<<< HEAD
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 27
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAecb5k.s 			page 27
+>>>>>>> kz/master
 
 
  950      53657443 
@@ -1795,8 +1903,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 1
  972 02bc 72784669 		.ascii	"rxFifoCtrl\000"
  972      666F4374 
  972      726C00
+<<<<<<< HEAD
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccA1reNb.s 			page 28
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccAecb5k.s 			page 28
+>>>>>>> kz/master
 
 
  974      65642063 

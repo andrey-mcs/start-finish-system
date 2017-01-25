@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\cc0uFONg.s 			page 1
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccP7WQ9H.s 			page 1
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccxFuJ0f.s 			page 1
+>>>>>>> kz/master
 
 
    1              		.cpu cortex-m0
@@ -63,10 +67,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccP7WQ9H.s 			page 1
   56 0021 1F       		.byte	31
   57 0022 1F       		.byte	31
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\cc0uFONg.s 			page 2
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccP7WQ9H.s 			page 2
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccxFuJ0f.s 			page 2
+>>>>>>> kz/master
 
 
   58 0023 1F       		.byte	31
@@ -127,10 +135,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccP7WQ9H.s 			page 1
   18:.\Generated_Source\PSoC4/LCD_CustChars.c **** #include "LCD.h"
   19:.\Generated_Source\PSoC4/LCD_CustChars.c **** 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\cc0uFONg.s 			page 3
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccP7WQ9H.s 			page 3
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccxFuJ0f.s 			page 3
+>>>>>>> kz/master
 
 
   20:.\Generated_Source\PSoC4/LCD_CustChars.c **** 
@@ -191,10 +203,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccP7WQ9H.s 			page 1
  103              		.cfi_def_cfa_offset 24
  104 0004 00AF     		add	r7, sp, #0
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\cc0uFONg.s 			page 4
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccP7WQ9H.s 			page 4
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccxFuJ0f.s 			page 4
+>>>>>>> kz/master
 
 
  105              		.cfi_def_cfa_register 7
@@ -255,10 +271,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccP7WQ9H.s 			page 1
   83:.\Generated_Source\PSoC4/LCD_CustChars.c ****     LCD_IsReady();
  143              		.loc 1 83 0 is_stmt 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\cc0uFONg.s 			page 5
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccP7WQ9H.s 			page 5
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccxFuJ0f.s 			page 5
+>>>>>>> kz/master
 
 
  144 0046 FFF7FEFF 		bl	LCD_IsReady
@@ -319,10 +339,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccP7WQ9H.s 			page 1
  197 004f 02       		.uleb128 0x2
  198 0050 08       		.byte	0x8
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\cc0uFONg.s 			page 6
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccP7WQ9H.s 			page 6
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccxFuJ0f.s 			page 6
+>>>>>>> kz/master
 
 
  199 0051 05       		.byte	0x5
@@ -383,10 +407,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccP7WQ9H.s 			page 1
  254 00bc 77       		.sleb128 -9
  255 00bd 00       		.byte	0
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\cc0uFONg.s 			page 7
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccP7WQ9H.s 			page 7
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccxFuJ0f.s 			page 7
+>>>>>>> kz/master
 
 
  256 00be 08       		.uleb128 0x8
@@ -447,10 +475,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccP7WQ9H.s 			page 1
  311 001a 03       		.uleb128 0x3
  312 001b 0E       		.uleb128 0xe
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\cc0uFONg.s 			page 8
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccP7WQ9H.s 			page 8
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccxFuJ0f.s 			page 8
+>>>>>>> kz/master
 
 
  313 001c 00       		.byte	0
@@ -511,10 +543,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccP7WQ9H.s 			page 1
  368 0054 0E       		.uleb128 0xe
  369 0055 3A       		.uleb128 0x3a
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\cc0uFONg.s 			page 9
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccP7WQ9H.s 			page 9
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccxFuJ0f.s 			page 9
+>>>>>>> kz/master
 
 
  370 0056 0B       		.uleb128 0xb
@@ -575,10 +611,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccP7WQ9H.s 			page 1
  425 008d 0B       		.uleb128 0xb
  426 008e 00       		.byte	0
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\cc0uFONg.s 			page 10
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccP7WQ9H.s 			page 10
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccxFuJ0f.s 			page 10
+>>>>>>> kz/master
 
 
  427 008f 00       		.byte	0
@@ -639,10 +679,14 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccP7WQ9H.s 			page 1
  472      536F7572 
  472      63655C50 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ARM GAS  C:\DOCUME~1\Admin\LOCALS~1\Temp\cc0uFONg.s 			page 11
 =======
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccP7WQ9H.s 			page 11
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccxFuJ0f.s 			page 11
+>>>>>>> kz/master
 
 
  473              	.LASF9:
@@ -736,8 +780,12 @@ ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccP7WQ9H.s 			page 1
  492      7369676E 
  492      65642069 
  493              	.LASF15:
+<<<<<<< HEAD
 ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccP7WQ9H.s 			page 12
 >>>>>>> kodizhuk/master
+=======
+ARM GAS  C:\Users\Petro\AppData\Local\Temp\ccxFuJ0f.s 			page 12
+>>>>>>> kz/master
 
 
  494 0156 6C6F6E67 		.ascii	"long long unsigned int\000"

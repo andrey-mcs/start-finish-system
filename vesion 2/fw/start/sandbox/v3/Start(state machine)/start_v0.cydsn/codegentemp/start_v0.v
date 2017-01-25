@@ -1,10 +1,14 @@
 // ======================================================================
 // start_v0.v generated from TopDesign.cysch
 <<<<<<< HEAD
+<<<<<<< HEAD
 // 08/15/2016 at 10:52
 =======
 // 08/16/2016 at 14:23
 >>>>>>> kodizhuk/master
+=======
+// 08/29/2016 at 22:55
+>>>>>>> kz/master
 // This file is auto generated. ANY EDITS YOU MAKE MAY BE LOST WHEN THIS FILE IS REGENERATED!!!
 // ======================================================================
 
@@ -67,7 +71,11 @@
 `define CYDEV_CHIP_FAMILY_USED 2
 `define CYDEV_CHIP_MEMBER_USED 12
 `define CYDEV_CHIP_REVISION_USED 0
+<<<<<<< HEAD
 // SW_Tx_UART_v1_50(BaudRate=115200, PinAssignmentMethod=1, CY_API_CALLBACK_HEADER_INCLUDE=#include "cyapicallbacks.h", CY_COMPONENT_NAME=SW_Tx_UART_v1_50, CY_CONTROL_FILE=<:default:>, CY_DATASHEET_FILE=<:default:>, CY_FITTER_NAME=SW_UART_DEBUG, CY_INSTANCE_SHORT_NAME=SW_UART_DEBUG, CY_MAJOR_VERSION=1, CY_MINOR_VERSION=50, CY_REMOVE=false, CY_SUPPRESS_API_GEN=false, CY_VERSION=PSoC Creator  3.3 CP3, INSTANCE_NAME=SW_UART_DEBUG, )
+=======
+// SW_Tx_UART_v1_50(BaudRate=19200, PinAssignmentMethod=1, CY_API_CALLBACK_HEADER_INCLUDE=#include "cyapicallbacks.h", CY_COMPONENT_NAME=SW_Tx_UART_v1_50, CY_CONTROL_FILE=<:default:>, CY_DATASHEET_FILE=<:default:>, CY_FITTER_NAME=SW_UART_DEBUG, CY_INSTANCE_SHORT_NAME=SW_UART_DEBUG, CY_MAJOR_VERSION=1, CY_MINOR_VERSION=50, CY_REMOVE=false, CY_SUPPRESS_API_GEN=false, CY_VERSION=PSoC Creator  3.3 SP2, INSTANCE_NAME=SW_UART_DEBUG, )
+>>>>>>> kz/master
 module SW_Tx_UART_v1_50_0 ;
 
 
